@@ -16,6 +16,7 @@ Despite the obstacles, the party perseveres to House of Joy for dim sum just bef
 
 Back at home, the couples part ways and, as expected, Sam and Cindy’s thoughts land on the idea of dessert. They voyage to a gelato place known as il laboratorio del gelato. The laboratory is sterile and cold. It is akin to a futuristic dystopian factory from Black Mirror. The employees are robots – this is barely a figurative statement. They condescendingly look down upon Cindy and Sam from their gelato perch. There is a disheveled man in the corner silently staring at them the entire time. Cindy and Sam anxiously order their gelato and leave. They immediately discuss impressions after and unanimously feel that it was the worst ice cream experience ever.
 
+![Pic](../pictures/egg_sandwich.png)
 
 ## January 4
 
