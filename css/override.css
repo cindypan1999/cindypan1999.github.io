@@ -1,5 +1,5 @@
 hr {
-  margin-top: 30px;
+  margin-top: 50px;
   margin-bottom: 20px;
 }
 
@@ -12,6 +12,17 @@ hr {
   color: #ffffff;
 }
 
+.site-title, .site-title:visited {
+  color: #ffffff;
+}
+
+.site-nav .page-link {
+  color: #ffffff;
+  line-height: 1.5;
+}
+a:visited {
+  color: #837d7d;
+}
 
 body {
   background-color: #e6ddde;
