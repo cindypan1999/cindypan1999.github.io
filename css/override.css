@@ -3,6 +3,10 @@ hr {
   margin-bottom: 20px;
 }
 
+body {
+  background-color: #f0f0f0; /* Light gray background for the whole page */
+}
+
 /* Post navigation links */
 .post_navi {
   display: flex;
