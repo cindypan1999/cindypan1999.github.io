@@ -5,6 +5,7 @@ hr {
 
 body {
   background-color: #f0f0f0; /* Light gray background for the whole page */
+  font-family: 'Arial', sans-serif; 
 }
 
 /* Post navigation links */
