@@ -1,3 +1,7 @@
+---
+tag: Travel
+---
+
 ## NEW YORK CITY 2025
 
 ## January 3

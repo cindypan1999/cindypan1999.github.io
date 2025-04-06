@@ -1,11 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Rancho&effect=shadow-multiple|3d-float');
+
 hr {
   margin-top: 30px;
   margin-bottom: 20px;
 }
 
+.site-header {
+  background-color: #d6cfd0;
+}
+
+.site-title {
+  font-family: "DomaineText", Georgia, serif;
+  color: #ffffff;
+}
+
+
 body {
-  background-color: #ADD8E6; /
-  font-family: 'Roboto', sans-serif;
+  background-color: #e6ddde;
+  font-family: "DomaineText", Georgia, serif;
+  color: #ffffff; 
 }
 
 /* Post navigation links */
@@ -23,6 +36,7 @@ body {
   width: 50%;
   position: relative;
   color: inherit !important;
+  background-color: #c01d7c;
 }
 
 .post_navi .nav_prev {
