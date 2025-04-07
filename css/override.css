@@ -71,3 +71,9 @@ body {
   font-size: 2.5em;
   opacity: 0.3;
 }
+
+.wrapper {
+  margin-right: 20px;
+  margin-left: 20px;
+  max-width: none;
+}
