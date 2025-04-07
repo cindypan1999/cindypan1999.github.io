@@ -1,3 +1,3 @@
 ![Pic](/pictures/sunset.jpg)
 
-Hi, I'm Cindy, and welcome to my blog! This is where I will share my travel adventures and any thoughts that I need to externalize. I'm a software engineer based in Seattle, with no formal background in writing, but I sporadically feel a strong urge to document and tell stories. This impulse, I believe, stems from a deeper need to create and express. As you will see, I am a woman of many passion projects. 
+Hi, I'm Cindy, and welcome to my blog! This is where I will share my travel adventures and any thoughts that I need to externalize. I'm a software engineer based in Seattle, with no formal background in writing, but I sporadically feel a strong urge to document and compose. This impulse stems from a deeply rooted need to create and express. As you will see, I am a woman of many passion projects. 

@@ -17,17 +17,17 @@ hr {
 }
 
 .site-nav .page-link {
-  color: #ffffff;
+  color: #443235; 
   line-height: 1.5;
 }
 a:visited {
-  color: #837d7d;
+  color: #443235; 
 }
 
 body {
   background-color: #e6ddde;
   font-family: "DomaineText", Georgia, serif;
-  color: #ffffff; 
+  color: #443235; 
 }
 
 /* Post navigation links */
