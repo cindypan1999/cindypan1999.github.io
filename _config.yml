@@ -1,4 +1,4 @@
-title: "Cindy's Blog"
+title: "Cindy Pan"
 author: "Cindy Pan"
 description: "Welcome to Cindy's blog!" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
@@ -17,15 +17,13 @@ instagram_username: cindy_pann
 ######### Nothing below needs to be changed (un
 ##########################################
 theme: "minima"
-
-rss: rss
+# remote_theme: "mmistakes/minimal-mistakes@4.26.2" 
 
 kramdown:
   syntax_highlighter_opts:
     disable: true
     
 plugins:
-  - jekyll-feed
   - jekyll-sitemap
 
 titles_from_headings:

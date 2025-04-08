@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
 hr {
   margin-top: 50px;
   margin-bottom: 20px;
@@ -26,7 +28,7 @@ a:visited {
 
 body {
   background-color: #e6ddde;
-  font-family: "DomaineText", Georgia, serif;
+  font-family: 'Inter', sans-serif;
   color: #443235; 
 }
 
@@ -76,4 +78,9 @@ body {
   margin-right: 20px;
   margin-left: 20px;
   max-width: none;
+}
+
+img {
+  width: 100%;
+  object-fit: cover;
 }
