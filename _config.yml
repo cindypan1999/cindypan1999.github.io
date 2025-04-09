@@ -17,8 +17,8 @@ instagram_username: cindy_pann
 ######### Nothing below needs to be changed (un
 ##########################################
 #theme: "minima"
-theme: "minimal-mistakes-jekyll"
-# remote_theme: "mmistakes/minimal-mistakes@4.26.2" 
+# theme: "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes@4.26.2" 
 
 kramdown:
   syntax_highlighter_opts:
