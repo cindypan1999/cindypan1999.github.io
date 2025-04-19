@@ -12,6 +12,7 @@ hr {
 .site-title {
   font-family: "DomaineText", Georgia, serif;
   color: #ffffff;
+  margin-top: 13px;
 }
 
 .site-title, .site-title:visited {
@@ -77,6 +78,7 @@ body {
 .wrapper {
   margin-right: 20px;
   margin-left: 20px;
+  min-height: 80px;
   max-width: none;
 }
 
