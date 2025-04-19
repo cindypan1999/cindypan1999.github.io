@@ -9,6 +9,10 @@ hr {
   background-color: #d6cfd0;
 }
 
+header {
+  height: 100px; /* Restore header height */
+}
+
 .site-title {
   font-family: "DomaineText", Georgia, serif;
   color: #ffffff;
@@ -19,17 +23,25 @@ hr {
   color: #ffffff;
 }
 
+
 .site-nav .page-link {
+  font-family: "DomaineText", Georgia, serif;
+  margin-top: 13px;
   color: #443235; 
   line-height: 1.5;
 }
+
+.site-nav {
+  margin-top: 13px;
+}
+
 a:visited {
   color: #443235; 
 }
 
 body {
   background-color: #e6ddde;
-  font-family: 'Inter', sans-serif;
+  font-family: "DomaineText", Georgia, serif;
   color: #443235; 
 }
 
@@ -78,7 +90,6 @@ body {
 .wrapper {
   margin-right: 20px;
   margin-left: 20px;
-  min-height: 80px;
   max-width: none;
 }
 
