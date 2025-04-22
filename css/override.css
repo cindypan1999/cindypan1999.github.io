@@ -10,7 +10,7 @@ hr {
 }
 
 header {
-  height: 100px; /* Restore header height */
+  height: 80px;
 }
 
 .site-title {
@@ -23,20 +23,10 @@ header {
   color: #ffffff;
 }
 
-
-.site-nav .page-link {
-  font-family: "DomaineText", Georgia, serif;
-  margin-top: 13px;
-  color: #443235; 
-  line-height: 1.5;
-}
-
 .site-nav {
-  margin-top: 13px;
-}
-
-a:visited {
+  font-family: "DomaineText", Georgia, serif;
   color: #443235; 
+  margin-top: 13px;
 }
 
 body {
@@ -91,9 +81,48 @@ body {
   margin-right: 20px;
   margin-left: 20px;
   max-width: none;
+  min-height: 80px;
 }
 
 img {
-  width: 100%;
+  width: 700px;
   object-fit: cover;
+}
+
+.carousel-container {
+  position: relative;
+  width: 600px;
+  overflow: hidden;
+  margin: auto;
+}
+
+.carousel-slide {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.carousel-slide img {
+  width: 600px;
+  height: auto;
+}
+
+.prev, .next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+  border: none;
+  padding: 16px;
+  cursor: pointer;
+  font-size: 18px;
+  border-radius: 50%;
+}
+
+.prev {
+  left: 10px;
+}
+
+.next {
+  right: 10px;
 }
