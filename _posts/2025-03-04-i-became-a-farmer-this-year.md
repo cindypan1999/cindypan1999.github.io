@@ -16,10 +16,48 @@ My urge to plant vegetables emerged unprompted last year. I'm not sure the reaso
 
 Fast forward to this year, when March struck, I knew I had to act fast. My initial endeavors actually led me to buy kale, carrot, and flower seeds. More on that later. However, I trip to Swanson's, a local nursery with everything you could imagine a gardener needing, inspired me to invest in radish seeds. One of the employees there advocated for it and filled me with dreams and passion. I bought and sowed the seeds once I returned home. 
 
-# March 15th
+# Match 15th
 
-<img src="/pictures/radish1.jpg" style="width:200px"/>
+<img src="/pictures/radish/march15.jpg" style="width:200px"/>
 
-# March 27th
+# Match 26th
 
-<img src="/pictures/radish2.jpg" style="width:200px"/>
+<img src="/pictures/radish/march26.jpg" style="width:200px"/>
+
+# April 6th
+
+<img src="/pictures/radish/apr6.jpg" style="width:200px"/>
+
+# April 18th
+
+<img src="/pictures/radish/apr18.jpg" style="width:200px"/>
+
+# April 20th
+
+<img src="/pictures/radish/apr20.jpg" style="width:200px"/>
+
+# April 27th
+
+<img src="/pictures/radish/apr27.jpg" style="width:200px"/>
+<img src="/pictures/radish/apr272.jpg" style="width:200px"/>
+
+
+# May 2nd
+
+I experienced the ultimate joy Friday evening when I spontaneously bolted to the roof and yanked out 7 gorgeous bulbous radishes. This was like the high of my life. I dream of growing and pulling out many more radishes in my lifetime.
+
+<img src="/pictures/radish/may2.jpg" style="width:300px"/>
+<img src="/pictures/radish/may2.2.jpg" style="width:200px"/>
+
+# May 3rd
+
+I ate 4 radishes today.
+
+Pictured here is a citrus and radish salad constructed by Sam and I. Thinnly sliced radishes, avocado, and pistachos sit atop a bed of butter lettuce, radish greens, and mint. 
+
+<img src="/pictures/radish/may3.jpg" style="width:200px"/>
+
+# Conclusion
+
+I have never appreciated and respected radishes so much. I appreciate them because they gave me an incredible beginners gardening experience since they are so easy to grow. I respect them because they work so hard to grow so fast and be so high quality and crunchy. 
+
