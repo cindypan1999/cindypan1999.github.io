@@ -78,32 +78,14 @@ body {
 }
 
 .wrapper {
-  margin-right: 20px;
-  margin-left: 20px;
+  margin-right: 15%;
+  margin-left: 15%;
   max-width: none;
   min-height: 80px;
 }
 
-img {
-  width: 700px;
-  object-fit: cover;
-}
-
-.carousel-container {
-  position: relative;
-  width: 600px;
-  overflow: hidden;
-  margin: auto;
-}
-
-.carousel-slide {
-  display: flex;
-  transition: transform 0.5s ease-in-out;
-}
-
-.carousel-slide img {
-  width: 600px;
-  height: auto;
+a.post-link {
+  color: #443235
 }
 
 .prev, .next {
