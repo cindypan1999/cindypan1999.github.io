@@ -2,7 +2,7 @@
 tag: Travel
 ---
 
-## MANZANITA 2025
+## manzanita
 
 # 2.15 	
 

@@ -2,5 +2,5 @@
 tag: Travel
 ---
 
-## Family vacation in SoCal
+## socal family vacation
 
