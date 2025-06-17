@@ -5,7 +5,7 @@ author: "Cindy Pan"
 
 ## schweitzer
 
-# 1/24
+## January 24
 
 At long last, Cindy and Sam will spend a weekend in Idaho to celebrate their 3rd anniversary of dating. They have planned a weekend getaway doing one of their favorite activities: skiing. Over three years ago, they stood on Cindy’s balcony in Capitol Hill, having nearly just met, discovering that they were both enthralled by the opportunity to ski in the PNW in the winter. Fast forward three years of exploring every nook and cranny of the PNW mountains, their dreams are about to be realized at Schweitzer mountain in Idaho. 
 
@@ -15,7 +15,7 @@ The ride is quite smooth. They listen to the season 2 severance podcast, which S
 
 Afterwards, they settle in bed in their log-themed hotel room and end the night with many rounds of Big Boggle. Cindy wins all but Sam wins one.
 
-# 1/25
+## January 25
 
 Cindy and Sam rise at 8:30am. Sam is like a brave warrior because he wanders down to breakfast alone and retrieves a hot coffee for Cindy. Cindy is eternally grateful and admires her generous boyfriend. They package up their Hey Bagel and drive over to the shuttle bus. The shuttle bus is convenient and soon enough, they are plopped at the ski lift. They aren’t prepared for what Schweitzer has in store. 
 
@@ -31,7 +31,7 @@ Naturally, thoughts veer towards the prospect of dinner. The couple makes their 
 
 Back in their hotel room, they settle in by playing some Big Boggle, doing the crossword, and watching TV. They are extremely amused by the advertising of the travel connect four Cindy gifted Sam for Christmas. It is clearly off brand and very inspiring. 
  
-# 1/26
+## January 26
 
 It’s sad but today Sam and Cindy pack their bags to leave their new home. They realize they did not use the hot tub, but had too much of a fun time anyways. They treat themselves to a drive to the mountain rather than the shuttle, and make their way down to the creekside parking lot. After a short hike to the lift, Sam and Cindy begin their final day of skiing Schweitzer. They immediately discover a new ski lift hidden inside of an old barn, and are wowed by the creativity of such a structure. They return to their favorite lift of the mountain, and spend the morning doing 8 enjoyable ski runs, including another go at the T-bar. During their day Cindy asks Sam if her skiing has improved, to which Sam replies “it’s the same. Have you been trying to improve?” This is a disturbing reality check for Cindy, as she is reminded that doing the same thing over and over again doesn’t mean she will passively improve. It reminds her of how she played chess a bunch but her chess score stayed the same because she wasn’t trying anything new. She makes a note to be more intentional with her everyday happenings and watches videos on how to ski better at home. They call it quits at 1PM and begin their drive back to Seattle with Sam at the helm of the car.
 

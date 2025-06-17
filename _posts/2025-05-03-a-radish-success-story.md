@@ -4,7 +4,7 @@ tag: Projects
 
 ## a radish success story
 
-I became a farmer this year. That said, my yield is not impressive, so I don't mean disrespect to farmers in anyway by calling myself a farmer. If anything, I have deep admiration and interest in those who can grow their food in mass. In this post, I will share my radish success story. 
+I grew a variety of vegetables this year and hope to become a more legitimate farmer in the future. Through my experience growing plants in containers on my roof, I have developed a deep admiration and interest in those who can grow their food in mass, aka farmers. In this post, I will share my radish success story. 
 
 # Last year - August 2024
 

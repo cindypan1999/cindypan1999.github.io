@@ -4,6 +4,8 @@ tag: Travel
 
 ## new york city
 
+<img src="/pictures/nyc.jpg"/>
+
 ## January 3
 
 It is the new year and Cindy and Sam have planned to take an Amtrak into the city of dreams, New York City. Their train departs at 3:15pm but Sam arrives at the train station hauntingly early, around 1pm. He loiters around for hours. Meanwhile, Cindy has a strained time at home and bursts into tears once she is reunited with Sam, for the first time this year. They embrace for a while until Cindy decides she wants a beverage treat. She gets bubble tea before boarding the train. It is revealed that Sam has a pistachio muffin for Cindy.
@@ -19,8 +21,6 @@ Following the detour, they arrive at Anna’s apartment. Upon arrival, they gree
 Despite the obstacles, the party perseveres to House of Joy for dim sum just before closing. They order various buns and dumplings and have a well deserved feast. The dimsum is tasty but could use increased variety. There is limited water. They receive free custard buns and dumplings amidst the confusion of ordering. Everyone becomes full.
 
 Back at home, the couples part ways and, as expected, Sam and Cindy’s thoughts land on the idea of dessert. They voyage to a gelato place known as il laboratorio del gelato. The laboratory is sterile and cold. It is akin to a futuristic dystopian factory from Black Mirror. The employees are robots – this is barely a figurative statement. They condescendingly look down upon Cindy and Sam from their gelato perch. There is a disheveled man in the corner silently staring at them the entire time. Cindy and Sam anxiously order their gelato and leave. They immediately discuss impressions after and unanimously feel that it was the worst ice cream experience ever.
-
-![Pic](/pictures/egg_sandwich.png)
 
 ## January 4
 
