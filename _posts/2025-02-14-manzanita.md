@@ -22,7 +22,7 @@ arriving at the iconic canon beach, stunned by the giant rock
 
 worshipping sam and the rock
 
-<img style="width:400px" src="/pictures/manzanita/elk.JPG"/>
+<img style="width:400px" src="/pictures/manzanita/elk.jpg"/>
 
 desperate elk stands to eat
 
