@@ -10,7 +10,7 @@ tag: Travel
 
 grilled cheese of my dreams
 
-<img style="width:400px" src="/pictures/manzanita/two.JPG"/>
+<img style="width:400px" src="/pictures/manzanita/seal.jpg"/>
 
 amazed by the howling sea lions
 
