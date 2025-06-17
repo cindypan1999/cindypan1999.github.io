@@ -8,40 +8,44 @@ tag: Travel
 
 <img style="width:400px" src="/pictures/manzanita/one.jpg"/>
 
-posing in the eclectic restuarant we visited for lunch
+grilled cheese of my dreams
 
-<img style="width:400px" src="/pictures/manzanita/two.jpg"/>
+<img style="width:400px" src="/pictures/manzanita/two.JPG"/>
 
 amazed by the howling sea lions
 
-<img style="width:400px" src="/pictures/manzanita/four.jpg"/>
+<img style="width:400px" src="/pictures/manzanita/group.jpg"/>
 
 arriving at the iconic canon beach, stunned by the giant rock
 
-<img style="width:400px" src="/pictures/manzanita/three.jpg"/>
+<img style="width:400px" src="/pictures/manzanita/three.JPG"/>
 
 worshipping sam and the rock
 
+<img style="width:400px" src="/pictures/manzanita/elk.JPG"/>
+
+desperate elk stands to eat
+
 ## February 16
 
-<img style="width:400px" src="/pictures/manzanita/five.jpg"/>
+<img style="width:400px" src="/pictures/manzanita/five.JPG"/>
 
 hungry but smiling
 
-<img style="width:400px" src="/pictures/manzanita/six.jpg"/>
+<img style="width:400px" src="/pictures/manzanita/six.JPG"/>
 
 wistful beach energy
 
-<img style="width:400px" src="/pictures/manzanita/seven.jpg"/>
+<img style="width:400px" src="/pictures/manzanita/seven.JPG"/>
 
 social outdoor activities
 
 ## February 17
 
-<img style="width:400px" src="/pictures/manzanita/eight.jpg"/>
+<img style="width:400px" src="/pictures/manzanita/eight.JPG"/>
 
 graysie becomes a bird and flies
 
-<img style="width:400px" src="/pictures/manzanita/nine.jpg"/>
+<img style="width:400px" src="/pictures/manzanita/nine.JPG"/>
 
 bear paints a self portrait
