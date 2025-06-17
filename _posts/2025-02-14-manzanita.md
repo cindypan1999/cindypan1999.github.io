@@ -6,7 +6,7 @@ tag: Travel
 
 ## February 15
 
-<img style="width:400px" src="/pictures/manzanita/cheese.jpg"/>
+<img style="width:400px" src="/pictures/manzanita/one.jpg"/>
 
 grilled cheese of my dreams
 
