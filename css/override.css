@@ -108,3 +108,27 @@ a.post-link {
 .next {
   right: 10px;
 }
+
+p.rss-subscribe {
+  display: none !important;
+}
+
+#mc_embed_shell {
+  border: 2px solid #333;  /* example: 2px thick, solid, dark gray border */
+  padding: 10px;           /* optional, to add some space inside the border */
+  border-radius: 5px;      /* optional, rounded corners */
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+#mc_embed_signup {
+  width: 100% !important;
+  box-sizing: border-box;
+  background: #e6ddde;
+  font: 14px "DomaineText", Georgia, serif;
+  clear: left;
+}
+
+#mc-embedded-subscribe {
+  font: 14px "DomaineText", Georgia, serif;
+}
