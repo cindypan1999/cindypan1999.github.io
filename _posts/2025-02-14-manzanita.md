@@ -32,7 +32,7 @@ desperate elk stands to eat
 
 hungry but smiling
 
-<img style="width:400px" src="/pictures/manzanita/six.JPG"/>
+<img style="width:400px" src="/pictures/manzanita/six.jpg"/>
 
 wistful beach energy
 
