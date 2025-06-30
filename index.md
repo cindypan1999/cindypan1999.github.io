@@ -1,7 +1,7 @@
 <img src="/pictures/collage.png"/>
 
 
-Hi, I'm Cindy, and welcome to my blog! I live a joyous life in the mountaineous land of Seattle with my friends and boyfriend, Sam. My life is filled with adventures and passions, so this is where I will share my travel journeys, personal projects, and any thoughts that I need to externalize. This blog is a product of my need to document, compose, create, and express. Enjoy!
+Hi, I'm Cindy, and welcome to my blog! I'm living my 20s in the mountaineous land of Seattle with my friends and boyfriend Sam. I get to go on many adventures and pursue various passions, so this is where I will share my travel journeys, personal projects, and any thoughts that I need to externalize. This blog is a product of my need to document, compose, create, and express. Enjoy!
 
 <div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
