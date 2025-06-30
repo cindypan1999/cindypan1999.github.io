@@ -2,7 +2,7 @@
 tag: Projects
 ---
 
-## a radish success story
+## my radish success story
 
 I grew a variety of vegetables this year and hope to become a more legitimate farmer in the future. Through my experience growing plants in containers on my roof, I have developed a deep admiration and interest in those who can grow their food in mass, aka farmers. In this post, I will share my radish success story. 
 
