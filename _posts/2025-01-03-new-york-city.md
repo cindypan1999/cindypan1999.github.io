@@ -4,6 +4,8 @@ tag: Travel
 
 ## new york city
 
+* Written by Cindy Pan and Sam Tipps
+
 <img src="/pictures/nyc.jpg"/>
 
 ## January 3
