@@ -49,12 +49,10 @@ The two immediately dart towards Mr. Purple, the legendary club of 18 and 19 yea
 
 Feeling energized yet famished from this escapade, they decide to get a slice of pizza at Uncle Sam’s. After a payment mishap where Sam thought Cindy’s slice was being gifted for free, they sit down with a diet coke, a thick slice of pepperoni and a mozzarella slice. The pizza is delicious and, as they eat, a terrifying person stares directly into Sam’s soul with anger and vitriol, coming up to the thin glass separating the inside comfort of the pizza shop with the outside danger of the city. This person is yelling something at Sam, so Cindy and Sam slowly look at one another in fear and shock. The person exits the scene, and Sam and Cindy gulp down their remaining food to quickly escape the radius of the assailant. They scurry home, settle in for bed, and end their eventful day.
 
-
-
-
 ## January 5
 
 Cindy wakes up to the thought of trying to get out of the run they have planned. Sam wakes up with “excitement” for Cindy. It is easy for Cindy to get out of running because no one wants to run either. Cindy and Sam meet Mars and Anna at a coffee shop. It is a unique coffee shop that leaves baby carrots in customer drinks. Cindy believes all New York stores try antics like this to make a lasting impression on their customers and to distinguish themselves from the other hundred stores in their domain. A clever trick that works well. When they leave the store, it becomes apparent Mars is walking with a limp. It is a reminder of the unprecedented run he accomplished yesterday. Their next stop is Black Seed Bagel. The group eats an amazing BEC. Cindy is wowed.
 
 Next, the group moves on to complete their promenade. They aimlessly follow Anna. They stop in a store, and Cindy purchases sunglasses and Anna a hat. Because the group is food oriented, Cindy and Sam stop by a deli to prepare for their bus ride. Shortly thereafter, they say their goodbyes and Cindy and Sam depart the city, taking with them a lifetime of memories.
 
+* Written by Cindy Pan and Sam Tipps
