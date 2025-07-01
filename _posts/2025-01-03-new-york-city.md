@@ -4,8 +4,6 @@ tag: Travel
 
 ## new york city
 
-\* *Written by Cindy Pan and Sam Tipps*
-
 <img src="/pictures/nyc.jpg"/>
 
 ## January 3
@@ -55,4 +53,4 @@ Cindy wakes up to the thought of trying to get out of the run they have planned.
 
 Next, the group moves on to complete their promenade. They aimlessly follow Anna. They stop in a store, and Cindy purchases sunglasses and Anna a hat. Because the group is food oriented, Cindy and Sam stop by a deli to prepare for their bus ride. Shortly thereafter, they say their goodbyes and Cindy and Sam depart the city, taking with them a lifetime of memories.
 
-* Written by Cindy Pan and Sam Tipps
+*Written by Cindy Pan and Sam Tipps*
