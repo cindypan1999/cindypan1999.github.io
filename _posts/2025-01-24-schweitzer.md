@@ -5,6 +5,8 @@ author: "Cindy Pan"
 
 ## schweitzer
 
+<img src="/pictures/schweitzer.jpg"/>
+
 ## January 24
 
 At long last, Cindy and Sam will spend a weekend in Idaho to celebrate their 3rd anniversary of dating. They have planned a weekend getaway doing one of their favorite activities: skiing. Over three years ago, they stood on Cindy’s balcony in Capitol Hill, having nearly just met, discovering that they were both enthralled by the opportunity to ski in the PNW in the winter. Fast forward three years of exploring every nook and cranny of the PNW mountains, their dreams are about to be realized at Schweitzer mountain in Idaho. 
