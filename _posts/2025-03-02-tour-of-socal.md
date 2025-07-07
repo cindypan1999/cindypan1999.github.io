@@ -38,7 +38,7 @@ sushi dinner to celebrate michelle's admittance to grad school at uva. also wher
 
 <img src="/pictures/cali/malibu.jpg"/>
 
-family brings cindy to reverved malibu location
+family brings cindy to revered malibu location
 
 <img src="/pictures/cali/smize.jpg"/>
 
