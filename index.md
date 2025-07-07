@@ -1,7 +1,7 @@
 <img src="/pictures/collage.png"/>
 
 
-Hi, I'm Cindy – welcome to my blog! I'm spending my twenties in the mountaineous land of Seattle with my friends and boyfriend. During the weekdays, I'm working as a software engineering, but on the weekend, I get to go on adventures and explore my passions. This is where I will share my travel stories, personal projects, and any thoughts that I need to externalize. This blog is born out of my need to document, compose, create, and express. Enjoy!
+Hi, I'm Cindy – welcome to my blog! I'm spending my twenties in the mountainous land of Seattle with my friends and boyfriend. During the weekdays, I'm working as a software engineer, but on the weekends, I get to go on adventures and explore my passions. This is where I will share my travel stories, personal projects, and any thoughts that I need to externalize. This blog is born out of my need to document, compose, create, and express. Enjoy!
 
 <div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
