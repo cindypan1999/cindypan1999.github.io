@@ -1,13 +1,13 @@
 <img src="/pictures/collage.png"/>
 
 
-Hi, I'm Cindy, and welcome to my blog! I'm living my 20s in the mountaineous land of Seattle with my friends and boyfriend. I get to go on many adventures and pursue various passions, so this is where I will share my travel journeys, personal projects, and any thoughts that I need to externalize. This blog is a product of my need to document, compose, create, and express. Enjoy!
+Hi, I'm Cindy – welcome to my blog! I'm spending my twenties in the mountaineous land of Seattle with my friends and boyfriend. During the weekdays, I'm working as a software engineering, but on the weekend, I get to go on adventures and explore my passions. This is where I will share my travel stories, personal projects, and any thoughts that I need to externalize. This blog is born out of my need to document, compose, create, and express. Enjoy!
 
 <div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
 <div id="mc_embed_signup">
     <form action="https://blog.us1.list-manage.com/subscribe/post?u=1ddb689f61f81aeadb613d3b3&amp;id=855e3ba8ea&amp;f_id=00ffc5e5f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
-        <div id="mc_embed_signup_scroll"><h2>Dear visitor, please subscribe</h2>
+        <div id="mc_embed_signup_scroll"><h2>Subscribe for all the latest updates!</h2>
             <div class="mc-field-group"><label for="mce-EMAIL">Email Address </label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div>
         <div id="mce-responses" class="clear foot">
             <div class="response" id="mce-error-response" style="display: none;"></div>
