@@ -11,5 +11,9 @@ tag: Goals
 - [x] Bike around bainbridge
 - [ ] Do a triathalon
 - [ ] See a drive-in movie
-- [ ] Lady Gaga
-- [ ] Take pictures with my camera and learn how to use it
+- [ ] See Lady Gaga live
+- [ ] Buy a bike
+- [ ] Take pictures with my camera
+- [ ] Weekend trip to Mt. Hood
+- [ ] See The Weeknd in concert
+- [ ] Play volleyball
