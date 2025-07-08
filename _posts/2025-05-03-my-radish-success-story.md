@@ -44,7 +44,7 @@ Fast forward to this year, when March struck, I knew I had to act fast. My initi
 
 # May 2nd
 
-I experienced the ultimate joy Friday evening when I spontaneously bolted to the roof and yanked out 7 gorgeous and bulbous radishes. This was the high of my life. I dream of growing and pulling out many more radishes in my lifetime.
+A mere nineteen days later, a Friday night, I experienced the ultimate joy when I spontaneously bolted to the roof and yanked out 7 gorgeous and bulbous radishes. This moment lives in the hall of fames with the other highs of my life. I dream of growing and pulling out many more radishes in my lifetime.
 
 <img src="/pictures/radish/may2.jpg" style="width:300px"/>
 <img src="/pictures/radish/may2.2.jpg" style="width:200px"/>
