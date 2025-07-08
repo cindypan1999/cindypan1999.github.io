@@ -32,10 +32,7 @@ Sidney and Flo arrive at Aunts et Uncle's, a vegan afro restaurant. Sam and Cind
 
 At Dumbo, the weather is ferocious. The lunch crew reconvenes with Mars, Anna, and special guest Gabby. They walk around the water and take some photos.
 
-The group heads home around 5pm. Cindy can finally take a deep breath and rest easy knowing she can finish curling her hair. They head to their dinner reservation at 6pm at ilili. They meet Shalin, Adam, Kyle and each of their respective girlfriends. Everyone at dinner is coupled up. To age is to eat dinner in pairs, Cindy observes. It’s complicated because the ratio of people you want to catch up with and converse deeply with to people you do want to meet but potentially not as much is skewed towards the latter. We order a lot of dips and each couple orders a few of their own dishes as well. Cindy and Sam are amused by their conversation with Adam about his sweat start up. It’s also nice to meet Kyle’s new love interest. After dinner, Cindy dares Mars to tell Shalin his joke. In paraphrase, his joke is: 
-> “These gloves are the best, I guess it’s because they’re named after my favorite thing” (the glove brand is HEAD).
-
-This is not the first time Mars has told this joke.
+The group heads home around 5pm. Cindy can finally take a deep breath and rest easy knowing she can finish curling her hair. They head to their dinner reservation at 6pm at ilili. They meet Shalin, Adam, Kyle and each of their respective girlfriends. Everyone at dinner is coupled up. To age is to eat dinner in pairs, Cindy observes. It’s complicated because the ratio of people you want to catch up with and converse deeply with to people you do want to meet but potentially not as much is skewed towards the latter. We order a lot of dips and each couple orders a few of their own dishes as well. Cindy and Sam are amused by their conversation with Adam about his sweat start up. It’s also nice to meet Kyle’s new love interest. 
 
 On the way home, suddenly, Anna is giving Mars a piggyback ride. Also, suddenly, Anna begins to squat Mars. Anna does four squats. Interestingly, the reverse is not demonstrated. Anywho, Cindy is awed and notes she would like to try this with Sam later.
 
