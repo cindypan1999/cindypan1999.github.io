@@ -14,7 +14,7 @@ My urge to plant vegetables emerged unprompted last year. I'm not sure why but a
 
 # March 2025
 
-Fast forward to this year, when March struck, I knew I had to act fast. My initial endeavors actually led me to buy kale, carrot, and flower seeds. More on that later. However, a trip to Swanson's, a local nursery with everything you could imagine a gardener needing, inspired me to invest in radish seeds. One of the employees there advocated for it and filled me with radish-related dreams and passion. I bought and sowed the seeds once I returned home. 
+Fast forward to this year, when March struck, I knew I had to act fast. My initial instincts led me to buy kale, carrot, and flower seeds. However, a trip to Swanson's, a local nursery with everything you could imagine a gardener needing, inspired me to invest in radish seeds. One of the employees there advocated for it and filled me with radish-related dreams and passion. I bought and sowed the seeds once I returned home. 
 
 # March 15th
 
