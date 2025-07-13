@@ -12,7 +12,7 @@ I think Seattle is the most beautiful place on Earth during all times of the yea
 - [x] Bike around bainbridge
 - [ ] Do one 10 mile run
 - [ ] See a drive-in movie
-- [ ] See The Weeknd in concert
+- [x] See The Weeknd in concert
 - [ ] Play volleyball
 - [ ] Go to Silverwood Theme Park
 - [ ] Do karaoke
@@ -20,5 +20,5 @@ I think Seattle is the most beautiful place on Earth during all times of the yea
 - [ ] Do a triathalon
 - [ ] See Lady Gaga live
 - [ ] Buy a bike
-- [ ] Take pictures with my camera
+- [x] Take pictures with my camera
 - [ ] Weekend trip to Mt. Hood
