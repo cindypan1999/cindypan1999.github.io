@@ -20,6 +20,6 @@ I think Seattle is the most beautiful place on Earth during all times of the yea
 - [ ] Do a triathalon
 - [ ] See Lady Gaga live
 - [x] Buy a bike
-- [ ] Bike to Bellevue
+- [x] Bike to Bellevue
 - [x] Take pictures with my camera
 - [ ] Weekend trip to Estacada
