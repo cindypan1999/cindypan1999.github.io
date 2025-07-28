@@ -44,7 +44,7 @@ Fast forward to this year, when March struck, I knew I had to act fast. My initi
 
 # May 2nd
 
-A mere nineteen days later, a Friday night, I experienced the ultimate joy when I spontaneously bolted to the roof and yanked out 7 gorgeous and bulbous radishes. This moment lives in the hall of fames with the other highs of my life. I dream of growing and pulling out many more radishes in my lifetime.
+A mere nineteen days later, a Friday night, I experienced the ultimate joy when I spontaneously bolted to the roof and yanked out 7 gorgeous and bulbous radishes. This moment lives in the hall of fame with the other highs of my life. I dream of growing and pulling out many more radishes in my lifetime.
 
 <img src="/pictures/radish/may2.jpg" style="width:300px"/>
 <img src="/pictures/radish/may2.2.jpg" style="width:200px"/>
@@ -53,7 +53,7 @@ A mere nineteen days later, a Friday night, I experienced the ultimate joy when 
 
 I ate 4 radishes today.
 
-Pictured here is a citrus and radish salad constructed by Sam and I. Thinnly sliced radishes, avocado, and pistachos sit atop a bed of butter lettuce, radish greens, and mint. 
+Pictured here is a citrus and radish salad constructed by Sam and I. Thinly sliced radishes, avocado, and pistachos sit atop a bed of butter lettuce, radish greens, and mint. 
 
 <img src="/pictures/radish/may3.jpg" style="width:200px"/>
 
