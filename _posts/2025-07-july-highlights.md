@@ -62,3 +62,17 @@ spontaneous lunch bike ride with sam that involved quiche, a sandwich, and some 
 <img src="/pictures/july2025/quiche.jpg"/>
 
 spontaneous lunch bike ride with sam that involved quiche, a sandwich, and some truffles.
+
+#### July 24
+<img src="/pictures/july2025/quiche.jpg"/>
+
+birthday!! 20mi bike ride with sam involving a bloody mary, salmon at the locks, bike eval, volleyball, popsicle, dip at lake union, and a really bad back sunburn. played escape room VR and battled a bunch of robots with grenades and machine guns with sam, darshini, and allie. dined at bahama breeze for dinner for an immersive carribean experience. went home, ate diy-iced cake, and played poptropica into the night. perfect day.
+
+#### July 25-27
+
+camped in the hidden lake lookout tower! drove into a wonderful, lowkey campground friday night, car-camped, and started backpacking early in the morning. reached lookout and enjoyed a nap, buffalo chicken mac & cheese, and stunning sunset. enjoyed a slow descent down taking many pictures. amazing milkshake + burgers on the way back and pitstop at agrobliss farms for u-pick blueberries.
+
+#### July 28
+
+discovered toptier soft serve with darshini and sanj.
+
