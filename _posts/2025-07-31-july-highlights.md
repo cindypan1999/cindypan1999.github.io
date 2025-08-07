@@ -2,14 +2,13 @@
 tag: Highlights
 ---
 
+## july highlights!!!
+
 <style>
 img {
   width: 400px;
 }
 </style>
-
-## july highlights!!!
-
 
 #### July 3
 <img src="/pictures/july2025/artwalk.jpg"/>
