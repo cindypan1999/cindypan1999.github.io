@@ -1,5 +1,5 @@
 ---
-tag: Travel
+tag: Highlights
 ---
 
 <style>
@@ -23,7 +23,7 @@ saw 4+ goats/goat babies at blue lake and captured their mystic on camera. could
 #### July 11
 <img src="/pictures/july2025/gasworks.jpg"/>
 
-gasworks beach and float
+gasworks beach and float.
 #### July 12
 <img src="/pictures/july2025/weeknd.jpg"/>
 
