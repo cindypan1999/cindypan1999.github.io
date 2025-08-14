@@ -6,10 +6,10 @@ tag: Travel
 
 This trip felt surreal to me –  both for the entire duration of time leading up to my flight to Beijing and for the entire time I was in China. Even though it wasn’t, it felt like a novel experience to me, and I had conflicting feelings of excitement and fear when I thought about being in China for a whole two weeks, reuniting with my extended family members who I haven’t seen in 8 years, speaking Chinese out of pure necessity, eating only Chinese foods for the entire duration, integrating my boyfriend with my family, and travelling around parts of the country without a native Chinese person to guide us.
 
-I consider myself a brave adventurer, but I felt a great deal of anxiety entering the trip which I think stemmed from this air of uncertainty around China. Coming from America, Chinese culture isn’t mainstream. If it’s talked about, it’s frequently in a negative context, revolving around government corruption, economic competition, and covid. Furthermore, positive aspects of the culture get introduced into western culture by being rebranded as Japanese or Korean, which Americans are more likely to view as cool and trendy. It shapes up to feel like propaganda against China which America pushes and citizens buy, because who knows better? For most of 2024 and half of 2025, the US travel advisory listed China as a level 3 country which recommends you “reconsider travel”. Other level 3 countries are Uganda, Ethiopia, Pakistan, and etc., countries with serious risks of violence and terrorism. At the bottom of the list is level 4 countries such as North Korea and Ukraine. Given this juxtaposition, I had concerns about safety in China. 
+I consider myself a brave explorer, but I felt a great deal of anxiety entering the trip which I think stemmed from this air of uncertainty around China. Coming from America, Chinese culture isn’t mainstream. If it’s talked about, it’s frequently in a negative context, revolving around government corruption, economic competition, and covid. Furthermore, positive aspects of the culture get introduced into western culture by being rebranded as Japanese or Korean, which Americans are more likely to accept. It shapes up to feel like propaganda against China which America pushes and citizens buy, because who knows better? For most of 2024 and half of 2025, the US travel advisory listed China as a level 3 country which recommends you “reconsider travel”. Other level 3 countries are Uganda, Ethiopia, Pakistan, and etc., countries with serious risks of violence and terrorism. At the bottom of the list is level 4 countries such as North Korea and Ukraine. Given this juxtaposition, I had concerns about safety in China. 
 
 Overall, I couldn’t have dreamed of a better experience in China. To be cliche, I would describe it as life changing. This is why:
-- I discovered China feels extremely safe and very easy to travel around. This opened up my worldview because it proved the feasibility of traveling, exploring, and living in China.
+- I discovered China feels extremely safe and very easy to travel around. This widened my realm of possibility because it proved the feasibility of traveling, exploring, and living in China.
 - This trip reaffirmed my ability to speak Chinese well enough to get around most areas of the country.
 - I noticed that my Chinese was naturally improving through the trip as I actively spoke and conversed in it.
 - Sam met my family and even connected with them. He’s the only person from my personal life to have ever met my extended family. 
@@ -20,9 +20,34 @@ Overall, I couldn’t have dreamed of a better experience in China. To be cliche
 
 #### May 18
 
-When we got to Beijing, we took a 90 minute Didi to my dad’s apartment which only cost $15. I was already impressed by the city. Turns out my dad is renting a two story apartment in a sprawling residential complex decorated with roses. In large, China is decorated with primarily roses of all colors. I have mixed feelings towards it since I like roses, but I also like variety. 
+When we got to Beijing, we took a 90 minute Didi to my dad’s apartment which only cost $15. I was already impressed by the city. Turns out my dad is renting a two story apartment in a sprawling residential complex decorated with roses. In large, China is primarily decorated with roses. I have mixed feelings towards it since I like roses, but I also like variety. 
 
-At my dad’s apartment, I walked in nervously since I haven’t seen my grandparent’s in eight years. My grandfather greeted me warmly despite his temporary blindness and broken rib. I sat down with him and Sam and we talked for a bit in his room, covering topics like past memories, what it’s like in America, how China has changed, and how Sam broke his leg. My grandmother is in a wheelchair due to her Alzheimer’s and wasn’t able to interact. There was a live-in nanny taking care of her. It was really sad and uncomfortable to see her in such a disabled state, but I’m grateful to have gotten to see her at all and for all the memories I have with her before her health started deteriorating. We were also surprised by my dad’s cousin in the apartment. She flew up from Nanjing, to spend the weekend at the apartment helping out since my dad was going to be busy hosting me, Sam, Michelle, and her childhood friend Rebecca. 
+At my dad’s apartment, I walked in nervously since I haven’t seen my grandparent’s in eight years. My grandfather greeted me warmly despite his temporary blindness and broken rib. I sat down with him and Sam and we talked for a bit in his room, covering topics like past memories, what it’s like in America, how China has changed, and how Sam broke his leg. 
+
+The first thing a lot of my relatives say about me, especially my grandfather, is that as a child, I memorized hundreds of Tang poetry, stylistic poems written during the Tang dynasty. Then they ask me if I still remember them to which I have to unfortunately say no. 
+
+This is one of the most famous ones by Li Bai:
+>
+>床前明月光 (chuáng qián míng yuè guāng)
+>
+>疑是地上霜 (yí shì dì shàng shuāng)
+>
+>举头望明月 (jǔ tóu wàng míng yuè)
+>
+>低头思故乡 (dī tóu sī gù xiāng) 
+
+
+Translation:
+
+>Before my bed, bright moonlight streams,
+>
+>I wonder if it's frost on the ground.
+>
+>I lift my head and watch the moon,
+>
+>Then bow my head and think of home. 
+ 
+My grandmother is in a wheelchair due to her Alzheimer’s and wasn’t able to interact. There was a live-in nanny taking care of her. It was really sad and uncomfortable to see her in such a disabled state, but I’m grateful to have gotten to see her at all and for all the memories I have with her before her health started deteriorating. We were also surprised by my dad’s cousin in the apartment. She flew up from Nanjing, to spend the weekend at the apartment helping out since my dad was going to be busy hosting me, Sam, Michelle, and her childhood friend Rebecca. 
 
 One of my main priorities in Beijing was to eat Peking duck. My dad immediately suggested we go to a local restaurant that makes really good duck. As a guest, I felt very heard. The restaurant was tucked away on a narrow street rampant with mopeds. I love the presence of mopeds because it reminds me I’m not in America. 
 
@@ -40,7 +65,7 @@ We even scaled the palace walls and got to listen to music on a chinese instrume
 
 For lunch we met up with my cousin Wei Wei who picked up Michelle and Rebecca from the airport. We went to a seafood restaurant where we ate a bunch of dishes featuring fish, mushrooms, and beef amongst other meats and vegetables. 
 
-After lunch, Wei Wei recommended us to an avocado and mango based smoothie place which was incredible. Sam and I split from the group and continued to Yuan Ming Yuan, a massive garden near the summer palace. This garden was covered in a blanket of serenity, and I wished we could have spent more time here. We walked through miniature forests to reach vast meadows and watched the koi fish and black swans dance in the pond. We passed a couple practicing ballroom dance on the platformed floor of a gazebo. We also saw a swastika in the middle of the pond which is where the emperor used to live. He would move from one end of the swastika to the next as the seasons changed. While the appearance of such a symbol was alarming, it stands for infinity in ancient culture and is not related to the Holocaust. Sam walked the swastika and posted his route on Strava. 
+After lunch, Wei Wei recommended us to an avocado and mango based smoothie place which was incredible. Sam and I split from the group and continued to Yuan Ming Yuan, a massive garden near the summer palace. This garden was the definition of serene, and I wished we could have spent more time here. We walked through miniature forests to reach vast meadows and watched the koi fish and black swans dance in the pond. We passed a couple practicing ballroom dance on the platformed floor of a gazebo. We also saw a swastika in the middle of the pond which is where the emperor used to live. He would move from one end of the swastika to the next as the seasons changed. While the appearance of such a symbol was alarming, it stands for infinity in ancient culture and is not related to the Holocaust. Sam walked the swastika and posted his route on Strava. 
 
 Sam and I had been walking almost seven miles at this point which is four miles further than Sam has ever walked on his broken leg. We were exhausted and basically crawled to the street to get into our Didi. 
 
@@ -54,7 +79,7 @@ It was extremely easy to get there. We took a Didi through the valley and were t
 
 On our way out, we stumbled upon multiple enclosures full of sun bears. It was very depressing as they had no vegetation or shade in their living space and it was much too small for the quantity of full grown bears they had in there. The little water they had was brown. My mood was completely thrown by this and slightly soured my impression of China. I found a whole petition demanding these enclosures be shut down, yet on Trip.com (China’s version of Google reviews/Yelp) there was nothing but raving reviews, none mentioning anything about the inhumane conditions these bears have to live in. 
 
-For dinner, my dad has a vision. We go on a group bike ride to his favorite noodle place. Bikes in Beijing are abundant and bike rides come out to only cost a few cents. My dad puts in six orders of his favorite noodle dish, and we find it is indeed very delicious. In typical fashion for my dad, he suddenly announces we have one minute before the Didi will be here to take us to his tennis game. We are all mid-bite and hastily package everything up to attempt to keep up with the itenerary. 
+For dinner, my dad had a vision. We went on a group bike ride to his favorite noodle place. Bikes in Beijing are abundant and bike rides come out to only cost a few cents. My dad puts in six orders of his favorite noodle dish, and we find it is indeed very delicious. In typical fashion for my dad, he suddenly announces we have one minute before the Didi will be here to take us to his tennis game. We are all mid-bite and hastily package everything up to attempt to keep up with the itenerary. 
 
 The tennis match is against a friend who he met somewhere unconventionally. The tennis court is at his friend’s company grounds, an amenity apparently requested and tastefully designed by his friend, which my dad mentions many times in the presence of said friend. I have a positive experience sitting in the umpire chair and robotically stating the score.
 
