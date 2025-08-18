@@ -16,10 +16,10 @@ I think Seattle is the most beautiful place on Earth during all times of the yea
 - [x] Play volleyball
 - [ ] Go to Silverwood Theme Park
 - [ ] Do karaoke
-- [ ] Skinny dip
-- [ ] Do a triathalon
+- [x] Skinny dip
+- [x] Do a triathalon
 - [ ] See Lady Gaga live
 - [x] Buy a bike
 - [x] Bike to Bellevue
 - [x] Take pictures with my camera
-- [ ] Weekend trip to Estacada
+- [x] Weekend trip to Estacada
