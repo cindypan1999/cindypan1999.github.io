@@ -6,14 +6,14 @@ tag: Travel
 
 This trip felt surreal to me –  both for the entire duration of time leading up to my flight to Beijing and for the entire time I was in China. Even though it wasn’t, it felt like a novel experience to me, and I had conflicting feelings of excitement and fear when I thought about being in China for a whole two weeks, reuniting with my extended family members who I haven’t seen in 8 years, speaking Chinese out of pure necessity, eating only Chinese foods for the entire duration, integrating my boyfriend with my family, and travelling around parts of the country without a native Chinese person to guide us.
 
-I consider myself a brave explorer, but I felt a great deal of anxiety entering the trip which I think stemmed from this air of uncertainty around China. Coming from America, Chinese culture isn’t mainstream. If it’s talked about, it’s frequently in a negative context, revolving around government corruption, economic competition, and covid. Furthermore, positive aspects of the culture get introduced into western culture by being rebranded as Japanese or Korean, which Americans are more likely to accept. It shapes up to feel like propaganda against China which America pushes and citizens buy, because who knows better? For most of 2024 and half of 2025, the US travel advisory listed China as a level 3 country which recommends you “reconsider travel”. Other level 3 countries are Uganda, Ethiopia, Pakistan, and etc., countries with serious risks of violence and terrorism. At the bottom of the list is level 4 countries such as North Korea and Ukraine. Given this juxtaposition, I had concerns about safety in China. 
+I consider myself a bold adventurer, but I felt a great deal of anxiety entering the trip which I think stemmed from this air of uncertainty around China. Coming from America, Chinese culture isn’t mainstream. If it’s talked about, it’s frequently in a negative context, revolving around government corruption, economic competition, and covid. Sometimes, positive aspects of the culture get introduced into western culture by being rebranded as Japanese or Korean, which Americans are more likely to accept. It shapes up to feel like propaganda against China which America pushes and citizens buy, because who knows better? For most of 2024 and half of 2025, the US travel advisory listed China as a level 3 country which recommends you “reconsider travel”. Other level 3 countries are Uganda, Ethiopia, Pakistan, and etc., countries with serious risks of violence and terrorism. At the bottom of the list is level 4 countries such as North Korea and Ukraine. Given this juxtaposition, I had concerns about safety in China. 
 
 Overall, I couldn’t have dreamed of a better experience in China. To be cliche, I would describe it as life changing. This is why:
 - I discovered China feels extremely safe and very easy to travel around. This widened my realm of possibility because it proved the feasibility of traveling, exploring, and living in China.
 - This trip reaffirmed my ability to speak Chinese well enough to get around most areas of the country.
 - I noticed that my Chinese was naturally improving through the trip as I actively spoke and conversed in it.
 - Sam met my family and even connected with them. He’s the only person from my personal life to have ever met my extended family. 
-- I had an amazing time with my cousin Wei Wei and felt like we were actually friends because we spent a lot of time together and really enjoyed it. Living across the globe from all of my extended family, I’ve generally lacked this experience of closeness with relatives. 
+- I had an amazing time with my cousin Wei Wei and felt like we were actually friends because we spent a lot of time together and really enjoyed it. Living across the world from all of my extended family, I’ve generally lacked this experience of closeness with relatives. 
 - I experienced the culture as an adult and couldn’t help but compare it to America and feel impressed by certain aspects.
 
 # Beijing (May 18-23)
@@ -24,7 +24,7 @@ When we got to Beijing, we took a 90 minute Didi to my dad’s apartment which o
 
 At my dad’s apartment, I walked in nervously since I haven’t seen my grandparent’s in eight years. My grandfather greeted me warmly despite his temporary blindness and broken rib. I sat down with him and Sam and we talked for a bit in his room, covering topics like past memories, what it’s like in America, how China has changed, and how Sam broke his leg. 
 
-The first thing a lot of my relatives say about me, especially my grandfather, is that as a child, I memorized hundreds of Tang poetry, stylistic poems written during the Tang dynasty. Then they ask me if I still remember them to which I have to unfortunately say no. 
+The first thing a lot of my relatives say about me, especially my grandfather, is that as a child, I memorized hundreds of Tang poems, stylistic poems written during the Tang dynasty. Then they ask me if I still remember them to which I have to unfortunately say no. 
 
 This is one of the most famous ones by Li Bai:
 >
@@ -105,19 +105,19 @@ Before we left, we walked over to my grandfather’s place and said bye to him a
 
 # Chongqing (May 23-25)
 
-Chongqing was even more breathtaking than I imagined. I’d seen the TikToks of the city lights, but nothing prepared me for the moment we drove in the city. When we crossed the bridge in our Didi, the view exploded into a sweeping panorama of lights. The towering buildings shimmered with lights across the water and cars weaved through the web of streets and highways. It was one of those moments that fills you with wonder and a strange, quiet hope for humanity and the future. 
+Chongqing was even more breathtaking than I imagined. I had seen the TikToks of the city lights, but nothing prepared me for the moment we drove in the city. When we crossed the bridge in our Didi, the view exploded into a sweeping panorama of lights. The towering buildings shimmered with lights across the water and cars weaved through the web of streets and highways. To be honest, it really did fill me with wonder and a strange, quiet hope for humanity.
 
-As we drove deeper into the city, everything was cinematic – we noticed groups of young men lounging against trees, women catching Didis in stilettos, and outdoor restaurants packed with strangers laughing and socializing. The city was so alive. It felt like what I have always imagined a city to be like but have never first hand experienced.
+As we drove deeper into the city, everything was cinematic – we noticed groups of young men lounging against trees, women running to catch Didis in stilettos, and outdoor restaurants packed with strangers laughing and socializing. It felt like what I have always imagined a city to be like but have never first hand experienced.
 
 Our first day we prioritized seeing the dreamlike imagery of a train running through a building. It was crowded but did not disappoint. 
 
-Then we visited Ciqikou which is an ancient town with an intricate network of winding alleyways full of street vendors and shopping. We had an extremely entertaining time there watching food being prepared, checking out jewelry, and taking pictures. 
+Then we visited Ciqikou which is an ancient town with an intricate network of winding alleyways full of street vendors and shopping. We had an extremely entertaining time there watching food being prepared, looking at jewelry, and taking pictures. 
 
 For lunch we had a somewhat traumatic experience. Chongqing is one of the hotpot capitals of the world. Visitors cannot pass through without trying the hotpot there. However, Wei Wei introduced us to some hotpot well above our adventure level. This hotpot restaurant was so spicy we all started coughing as soon as we entered the restaurant. Instead of regular cuts of beef and pork, we were presented with stomach, heart, intestines, pig’s feet, liver, blood. I tried the stomach which was tasty but not more tasty than beef. Sam tried everything because he is brave and open-minded which I love about him. After this eating experience, I felt we were unanimously hoping to eat something else for dinner. 
 
 We visit the area where the ground floor is actually 22 floors up. The architecture is really imaginative and futuristic.  
 
-At night we went to the iconic Hongya cave which is an ancient town that is covered in glowing lights. It was PACKED, but well worth it because it was a truly beautiful and unique sight. We squeezed through the throngs of people to reach an opening on the bridge to get a view of the lit up city. Once there, we had my cousin hold up his phone flashlight, and began a methodical photo rotation system capturing various combinations of us. 
+At night we went to the iconic Hongya cave which is an ancient town that is covered in glowing lights. It was so packed I thought the bridge might go down, but it was well worth it because it was a truly beautiful and unique sight. We squeezed through the throngs of people to reach an opening on the bridge to get a view of the lit up city. Once there, we had my cousin hold up his phone flashlight, and began a methodical photo rotation system capturing various combinations of us. 
 
 After we snapped out of the trance the lights put us in, we embarked on a search for food. This was no easy task given that we were weary of the hotpot in the land of hotpot. We settled for the same place we ate breakfast and got another bowl of beef noodles. Delicious. 
 
