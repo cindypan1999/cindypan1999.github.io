@@ -4,6 +4,8 @@ tag: Goals
 
 ## FALL BUCKET LIST 2025
 
+<img src="/pictures/fall2025.jpg"/>
+
 As evenings get colder\
 The leaves get golder\
 When days grow shorter\
