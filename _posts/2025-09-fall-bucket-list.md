@@ -4,17 +4,19 @@ tag: Goals
 
 ## FALL BUCKET LIST 2025
 
-As evenings get colder and days grow shorter\
-We see leaves get golder and start remembering brick and mortar\
+As evenings get colder\
+The leaves get golder\
+When days grow shorter\
+We start remembering brick and mortar\
 The comfort of a fireplace and a New England home\
 The hallmark northeastern ambiance rivaled not even by Rome
 
 Pinks and blues\
 Replaced by dusty orange hues\
 Will bloom again next year\
-When summer once again is here
+When summer is here
 
-- [ ] Host a party on the roof
+- [x] Host a party on the roof
 - [ ] Do one 10 mile run
 - [ ] Go to a haunted house
 - [ ] See a drive-in movie
