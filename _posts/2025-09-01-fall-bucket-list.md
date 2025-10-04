@@ -6,17 +6,12 @@ tag: Goals
 
 <img src="/pictures/fall2025.jpg"/>
 
-As evenings get colder\
-The leaves get golder\
-When days grow shorter\
-We start remembering brick and mortar\
-The comfort of a fireplace and a New England home\
-The hallmark northeastern ambiance rivaled not even by Rome
-
-Pinks and blues\
-Replaced by dusty orange hues\
-Will bloom again next year\
-When summer is here
+Fall used to be the first days of school\
+Which I miss more now than I ever knew\
+Red, orange, and yellow hues\
+Colors I grew up around now give me the blues\
+Reminding me of a time and place\
+That I can never replace 
 
 - [x] Host a party on the roof
 - [ ] Do one 10 mile run
