@@ -11,7 +11,9 @@ Which I miss more now than I ever knew\
 Red, orange, and yellow hues\
 Colors I grew up around now give me the blues\
 Reminding me of a time and place\
-That I can never replace 
+That I can never replace\
+Or go back to\ 
+Since it's already been lived through
 
 - [x] Host a party on the roof
 - [ ] Do one 10 mile run
