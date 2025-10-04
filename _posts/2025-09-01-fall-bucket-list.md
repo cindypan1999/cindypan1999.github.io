@@ -21,6 +21,9 @@ When summer is here
 - [x] Host a party on the roof
 - [ ] Do one 10 mile run
 - [ ] Go to a haunted house
+- [ ] Join a tennis league
+- [ ] Volunteer at a local organization
+- [ ] Hosted an amazing potlock Thanksgiving dinner
 - [ ] See a drive-in movie
 - [ ] Go to Silverwood Theme Park
 - [x] Visit Ilana in Virginia Beach and meet Drew
