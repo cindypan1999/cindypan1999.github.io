@@ -11,7 +11,7 @@ tag: Goals
 - [ ] Go to a haunted house
 - [ ] Join a tennis league
 - [ ] Volunteer at a local organization
-- [ ] Hosted an amazing potlock Thanksgiving dinner
+- [ ] Host an amazing potlock Thanksgiving dinner
 - [ ] See a drive-in movie
 - [ ] Go to Silverwood Theme Park
 - [x] Visit Ilana in Virginia Beach and meet Drew
