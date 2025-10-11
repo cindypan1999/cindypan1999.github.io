@@ -1,4 +1,4 @@
----
+![glow](https://github.com/user-attachments/assets/316ab8b2-d371-403d-b560-a9524495b24c)---
 tag: Travel
 ---
 ## china week 2
@@ -69,7 +69,7 @@ For lunch we had one of our best meals yet. At this point, we had many iteration
 
 After lunch, we made a pit stop at the tea shop for a tea tasting because it was pouring outside. This tea experience exceeded all our expectations because we got to try many different teas, learn about Chinese tea history, and have an authentic tea experience practicing the different customs and hand signals. One of the teas we tried was native to the Zhangjiajie area, growing only in the tiny vertical cracks of the signature rock pillars. This specific tea is coated in a white frost rich with flavonoids. It starts off purple and turns green once in water. The coolest thing about this tea is that it tastes sweeter the more you drink and eventually makes everything you eat taste sweet. I bought some Chrysanthemum tea which is my favorite. 
 
-<img src="/pictures/china/tianmen.jpg"/>
+<img src="/pictures/china/tianmenrock.jpg"/>
 
 After tea, we finally went to go see Tianmen Shan, the mountain that has a huge hole in the middle. Tianmen Shan turns out to be a hub for various extreme sports such as wingsuit flying. We all bravely descended the steep slippery staircase down through the hole.
 
@@ -83,7 +83,19 @@ Given our midnight arrival, we didn’t get to see the city until morning. Shang
 
 On our first day we went to a cafe downstairs for dinner and were completely amazed to see the cafe selling a variety of food from coffee to beef noodle soup to ice cream to waffles. I ordered an insanely delicious beef noodle soup. I wish I could eat beef noodle soup for breakfast everyday. At breakfast, we learned about the convoluted history of Shanghai. In short, Shanghai is a fishing village turned international industrial hub due to foreign concessions. Foreign concessions are areas within the city under foreign jurisdiction. In this case, many areas in Shanghai were governed by the French or British which this explains the western influence felt in the city and clusters of European building amid Chinese streets. 
 
-We prioritized shopping and took a pleasant bike ride along the water to end up at the famous shopping street, Nanjing Road, that ends at the Bund. At night, we biked to Xie San Bao and got the famous crab roe noodles. I loved them. We also tried crab roe buns. I love crab roe so much; the taste hits me in the same way truffle does; it’s never enough. At night we went on a long bike ride to Yu Yuan where all the buildings were lit up in bright red. It was beautiful. We also fortunately stumbled upon a mango stand where you could purchase a large cup of freshly sliced up mango. It was so juicy and sweet Michelle ascended to heaven. I wish to bring this to America.
+<img src="/pictures/china/shanghai.jpg"/>
+
+<img src="/pictures/china/crab.jpg"/>
+
+We prioritized shopping and took a pleasant bike ride along the water to end up at the famous shopping street, Nanjing Road, that ends at the Bund. At night, we biked to Xie San Bao and got the famous crab roe noodles. I loved them. We also tried crab roe buns. I love crab roe so much; the taste hits me in the same way truffle does; it’s never enough. 
+
+<img src="/pictures/china/bike.jpg"/>
+
+At night we went on a long bike ride to Yu Yuan where all the buildings were lit up in bright red. It was beautiful. We also fortunately stumbled upon a mango stand where you could purchase a large cup of freshly sliced up mango. It was so juicy and sweet Michelle ascended to heaven. I wish to bring this to America.
+
+<img src="/pictures/china/roof.jpg"/>
+<img src="/pictures/china/glow.jpg"/>
+<img src="/pictures/china/duck.jpg"/>
 
 # Suzhou (5/29)
 
