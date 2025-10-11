@@ -49,17 +49,27 @@ At the end of the 10 Mile Gallery, we discovered a really depressing cement encl
 
 At night we had a comical dinner situation where Sam and I sat across from Michelle and Rebecca at a giant round table meant for 15. We were very far from each other. By this point, we had really nailed down how to order and we continuously ordered the same food again and again, our formula never letting us down: 3 meats (beef, pork, pork) + 3 vegetables (eggplant, spinach, cauliflower) + rice + fun drink.
 
+<img src="/pictures/china/smoke.jpg"/>
+ 
 At night, we went to a performance intended to describe the history of Zhangjiajie. The performance left my jaw dropped. It had traditional music, unbelievable acrobatics, the most creative performances, and much more. I was stunned by the production which by no easy feat caputed my attention the entire time.
 
 On our way out, we found that there was another performance going on in the larger square. Here we watched some terrifying knife throwing, blade walking, fire centric performances, and another one where they put 1000 pounds on a man lying down. I couldn’t believe this was all happening on a Monday night!
 
 #### 5/27
 
+<img src="/pictures/china/huang.jpg"/>
+
 On our third and final day here, we went to the renowned Zhangjiajie Glass Bridge, one of the longest in the world. This was located far from the NP entrance and deep in the Zhangjiajie Grand Canyon. We drove through a remote farming town to reach the entrance. The glass bridge was insanely long. Luckily, it wasn’t as nerve-wracking for me as the glass observation deck was. At the end of the bridge, we were funneled to the zipline area where we glided over the canyon. Then, we put on cloth pants and slid down a metal slide that deposited us on the canyon grounds. It was a comical experience with everyone sliding at different rates, and slower sliders panicking from the fear of being slid into. In the valley, we took a scenic boat ride where we observed waterfalls and the lush vegetation growing on the cliffs of the canyon. 
 
 To get back up, we took a series of elevators and ended up at the VR experience. This was my first time doing VR and it was incredible. Unbeknownst to me, this would mark the beginning of a series of VR games I would go on to play in Seattle. We flew through the canyon experiencing different seasons, and I felt like a bird. This marked the end of our adventure package at the grand canyon.
 
-For lunch we had one of our best meals yet. At this point, we had many iterations of ordering together and perfected our strategy, resulting in a very satiated group. After lunch, we made a pit stop at the tea shop for a tea tasting because it was pouring outside. This tea experience exceeded all our expectations because we got to try many different teas, learn about Chinese tea history, and have an authentic tea experience practicing the different customs and hand signals. One of the teas we tried was native to the Zhangjiajie area, growing only in the tiny vertical cracks of the signature rock pillars. This specific tea is coated in a white frost rich with flavonoids. It starts off purple and turns green once in water. The coolest thing about this tea is that it tastes sweeter the more you drink and eventually makes everything you eat taste sweet. I bought some Chrysanthemum tea which is my favorite. 
+For lunch we had one of our best meals yet. At this point, we had many iterations of ordering together and perfected our strategy, resulting in a very satiated group. 
+
+<img src="/pictures/china/tea.jpg"/>
+
+After lunch, we made a pit stop at the tea shop for a tea tasting because it was pouring outside. This tea experience exceeded all our expectations because we got to try many different teas, learn about Chinese tea history, and have an authentic tea experience practicing the different customs and hand signals. One of the teas we tried was native to the Zhangjiajie area, growing only in the tiny vertical cracks of the signature rock pillars. This specific tea is coated in a white frost rich with flavonoids. It starts off purple and turns green once in water. The coolest thing about this tea is that it tastes sweeter the more you drink and eventually makes everything you eat taste sweet. I bought some Chrysanthemum tea which is my favorite. 
+
+<img src="/pictures/china/tianmen.jpg"/>
 
 After tea, we finally went to go see Tianmen Shan, the mountain that has a huge hole in the middle. Tianmen Shan turns out to be a hub for various extreme sports such as wingsuit flying. We all bravely descended the steep slippery staircase down through the hole.
 
