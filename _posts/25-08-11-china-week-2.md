@@ -99,9 +99,23 @@ At night we went on a long bike ride to Yu Yuan where all the buildings were lit
 
 # Suzhou (5/29)
 
+<img src="/pictures/china/cindymeal.jpg"/>
+
+<img src="/pictures/china/perfume.jpg"/>
+
 We took a day trip to Suzhou. It was beyond easy. We hopped on the high speed train and were there in 30 minutes! We navigated to the Humble Administrator’s garden, regarded as one of southern China’s most beautiful gardens… which is to say a lot given how many gardens are in China. It becomes very evident after a few days that Chinese people take gardens very seriously. The garden was a peaceful oasis with its entrance in the middle of a busy street. Inside the garden, completely shielded from the bustling streets, were beautiful ponds covered with giant lily pads surrounded by intricate gazebos with panelled hallways leading in every direction. They even had fog machines which kept the ponds and trees wrapped in a light layer of mist. 
 
-After the garden, we ventured into the famous shopping street, Pingjiang Road which runs parallel to Pingjiang River, a charming stream that people take boat rides on to observe the beautiful scenery of the street. Fragrant scents immediately lured us into a perfume shop, a commodity in China. I went completely nose blind and bought two perfumes that I think smelled good. And then everyone bought perfume. I believe cheaper perfume stores would do very well in America. We also stopped for some incredible $4 noodles, sat in miniature chairs, and drank out of bamboo cups. As we strolled, I noticed everyone was eating delicious looking cones filled with sticky rice cake. I bought one and was very amazed by it. It was steaming hot, topped with goji berries, and filled with red bean paste. What could be better!
+<img src="/pictures/china/flowermeal.jpg"/>
+
+After the garden, we ventured into the famous shopping street, Pingjiang Road which runs parallel to Pingjiang River, a charming stream that people take boat rides on to observe the beautiful scenery of the street. Fragrant scents immediately lured us into a perfume shop, a commodity in China. I went completely nose blind and bought two perfumes that I think smelled good. And then everyone bought perfume. I believe cheaper perfume stores would do very well in America. We also stopped for some incredible $4 noodles, sat in miniature chairs, and drank out of bamboo cups. 
+
+<img src="/pictures/china/sticky.jpg"/>
+
+As we strolled, I noticed everyone was eating delicious looking cones filled with sticky rice cake. I bought one and was very amazed by it. It was steaming hot, topped with goji berries, and filled with red bean paste. What could be better!
+
+<img src="/pictures/china/cats.jpg"/>
+
+<img src="/pictures/china/michelle.jpg"/>
 
 Finally we reached our target destination, which was the famous cat cafe where giant expensive cats lounge on the roof of the building. We urgently purchased entry and ran upstairs. To my delight, I found so many adorable kittens. We were all obsessed with the munchkin cats, I have never seen something so cute in my life. We stayed there for hours. Upon leaving, we saw a shiba dressed in Hawaiian gear shaking its butt in front of the window.
 
@@ -109,11 +123,17 @@ Finally we reached our target destination, which was the famous cat cafe where g
 
 #### 5/30
 
+<img src="/pictures/china/bratz.jpg"/>
+
 On the next day, we went to the iconic Gentle Monsters store which displays various art installations including the famous moving robot faces that look hyper real. At first, I said “what’s the point of this”, but I quickly became a fan. To summarize simply, the store is very interesting. It’s easy to get lost in the store roaming the 5 floors, trying on sunglasses, trying to understand the art installations, and taking pictures. Overall, it has brilliant marketing and design. People were decked out, lined up waiting to take pictures with the different art installations, which included a massive 100x human Bratz doll lying on her side taking up the entire ground floor, a whole section of croissant gym equipment, and a white harambe structure. The glasses were really cool too, some of them folding up to be pocket sized. We wandered around to quite a few stores, continuing to really enjoy the shopping Shanghai has to offer. 
 
 For dinner we went to a michelin restaurant and ate soooo many delicious xiao long bao for so cheap. I miss China for the food and the prices so badly. We got wontons, buns, more buns, tea, and then we were so full we had to go home and rest. 
 
+<img src="/pictures/china/bund.jpg"/>
+
 We had one of the best nights of our trip. We put on the new little tank tops we bought earlier that day and got ready to go to a stunning rooftop bar, Roosevelt Bar. It had jawdropping panoramic views of the skyline right up close. We were in awe and took a million photographs. The DJ was going hard with the Weeknd and we got a few different fun cocktails. At the end, we headed to the destination we had been anticipating all week, INS Park, the six story nightclub.
+
+<img src="/pictures/china/inns.jpg"/>
 
 At the legendary six story nightclub, we bought $40 entry tickets that grant you access to all nightclubs and a free drink at each. We started at Freshman, which stole the show with a bouncy floor. It was literally the best night club I’d ever been to. Now I wonder why more nightclubs don’t use a trampoline floor. At times, when I jumped counter to the bounce of the floor, it launched me up so high in an amazingly uncontrollable way. Afterwards, we checked out some of the other clubs like friends and la fin but they were no match due to the lack of a bouncy floor. 
 
