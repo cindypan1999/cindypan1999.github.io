@@ -14,21 +14,34 @@ img {
 
 We travelled eight hours from Chongqing to reach Zhangjiajie. The train we took this time was definitely vintage. On the train, I was amused by the mango candy salesman. I’ve never met anyone more enthusiastic and charismatic in my life. The way he marketed the candy to the silent and unbothered train passengers deeply inspired me. I plan to bring some of his attitude into my own life. My admiration for him led me to purchase a large bag of mango candy. 
 
+<img src="/pictures/china/wipe.jpg"/>
+
 When we got off the train, we discovered our luggage was covered in a thick coat of cigarette ash. When I blew my nose a few hours later, I blew ash into the tissue paper. Sam was deeply distraught by this and abruptly windexed his entire suitcase right there on the train platform.
 
 My dad and Selina allegedly requested an English tour guide but once we met him, it was apparent he only spoke Chinese. Mr. Huang comes from a longer generation of people who have lived in the village within Zhangjiajie and spent all of his life there. Lucky for us, he had extensive knowledge of the culture and history there and ended up being quite the character. I was secretly excited by his inability to speak English because I wanted to continue practicing my Chinese but this also meant no one else could communicate with him and vice versa. My excitement turned to frustration once I realized how much talking and translating I had to do. 
 
 We went to QiXing mountain where we walked up to the large circular observation deck made of glass. The view was beautiful but the glass terrified me and I found myself unable to walk. No one else was affected.
 
+<img src="/pictures/china/porkbelly.jpg"/>
+
 At night, we went to the seventy two wonders tower where again we found ancient architecture and a night market inside. We were unimpressed until we went to the most interesting rock museum of my life. Sam was enamoured by this place. I asked the museum attendee one question which opened up to a whole conversation about the origins of all the rocks on display. He was exploding with information and it was awesome how passionate he was about the origins of each rock. 
+
+<img src="/pictures/china/zhanghotel.jpg"/>
 
 #### 5/26
 
 In the morning, our first stop was the Bailong elevator. The ride into the mountains was breathtaking. We drove through the valleys with famous vertical pillars towering over us. The elevator, both scenic and efficient, rocketed us to the tops of the pillars, where we began a promenade that brought us to the most iconic viewpoints where we looked down into the valley at the pillars. This area was called Yuanjiajie. One of these viewpoints included the mountain featured in Avatar, which has now been named Avatar mountain. 
 
+<img src="/pictures/china/monkey.jpg"/>
+
 The monkeys stole the show for me. I’ve never seen monkeys in the wild before, and I was so excited to see them!! Their eyes resemble human eyes which made me feel a bond with them, though likely imaginary. We saw tons and tons of monkeys, some eating, some stealing food from tourists, babies clutching their mothers, etc. 
 
+<img src="/pictures/china/sam.jpg"/>
+
 It was hot and crowded, but it was really cool to see such a unique landscape that I’ve truly never seen before. When I watched Avatar in theaters in fifth grade, I never imagined the scenery to be real, and that I would get to see it someday. Our tour guide hustled us along and led us to all the best viewpoints. 
+
+<img src="/pictures/china/mountain.jpg"/>
+<img src="/pictures/china/tall.jpg"/>
 
 Later in the day, we went to Tian Zi Shan where we continued to see sweeping views of the spikes and pillars. We ended our marathon of a day at 10 Miles Gallery where we were now back in the valley and walked along a beautiful pathway surrounded by towering pillars. Our tour guide heavily negotiated with us to convince us to take the train, but we opted to walk and watched him take the pastel colored train past us. Mr. Huang had a way of being very persuasive which made us suspicious of his secret motives, but in this case, I think he was just desperately over walking. On our walk, we played a fun game where me and Sam had 3 secret words, Rebecca and Michelle had 3 secret words, and we had to work it in conversation. 
 
