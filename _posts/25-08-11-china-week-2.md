@@ -17,7 +17,7 @@ We travelled eight hours from Chongqing to reach Zhangjiajie. The train we took 
 
 <img src="/pictures/china/wipe.jpg"/>
 
-When we got off the train, we discovered our luggage was covered in a thick coat of cigarette ash. When I blew my nose a few hours later, I blew ash into the tissue paper. Sam was deeply distraught by this and abruptly windexed his entire suitcase right there on the train platform.
+When we got off the train, we discovered our luggage was covered in a thick coat of cigarette ash. When I blew my nose a few hours later, I blew ash into the tissue paper. Sam was distraught by this and abruptly windexed his entire suitcase on the train platform.
 
 My dad and Selina allegedly requested an English tour guide but once we met him, it was apparent he only spoke Chinese. Mr. Huang comes from a longer generation of people who have lived in the village within Zhangjiajie and spent all of his life there. Lucky for us, he had extensive knowledge of the culture and history there and ended up being quite the character. I was secretly excited by his inability to speak English because I wanted to continue practicing my Chinese but this also meant no one else could communicate with him and vice versa. My excitement turned to frustration once I realized how much talking and translating I had to do. 
 
@@ -88,15 +88,17 @@ On our first day we went to a cafe downstairs for dinner and were completely ama
 
 <img src="/pictures/china/crab.jpg"/>
 
-We prioritized shopping and took a pleasant bike ride along the water to end up at the famous shopping street, Nanjing Road, that ends at the Bund. At night, we biked to Xie San Bao and got the famous crab roe noodles. I loved them. We also tried crab roe buns. I love crab roe so much; the taste hits me in the same way truffle does; it’s never enough. 
+We prioritized shopping and took a pleasant bike ride along the water to end up at the famous shopping street, Nanjing Road, that ends at the Bund. At night, we biked to Xie San Bao and got the famous crab roe noodles. I loved them. We also tried crab roe buns. I love crab roe so much. The taste intoxicates me the same way truffle does. It’s never enough. 
 
 <img src="/pictures/china/bike.jpg"/>
+<img src="/pictures/china/glow.jpg"/>
 
 At night we went on a long bike ride to Yu Yuan where all the buildings were lit up in bright red. It was beautiful. We also fortunately stumbled upon a mango stand where you could purchase a large cup of freshly sliced up mango. It was so juicy and sweet Michelle ascended to heaven. I wish to bring this to America.
 
 <img src="/pictures/china/roof.jpg"/>
-<img src="/pictures/china/glow.jpg"/>
 <img src="/pictures/china/duck.jpg"/>
+
+Once we returned to the hotel, we went to the rooftop bar to redeem their promotion to receive a free cocktail upon posting a tiktok of the establishment. We stepped into the bar and discovered magnificent views of the Bund and the surrounding city. We quickly posted our tiktoks and the bartender served us tasty cocktails. To add to other amazing experience, my cousin Wei Wei spontaneously sent us sweet teas, which we had been in love with since trying. Just when things couldn't get better, we discovered the bar had karaoke. Resolute to performance Taylor Swift to the empty bar, we fiddled with the Chinese karaoke machine and after engaging the bartender, it finally worked. We proceeded to sing many Taylor Swift songs to the bartender who eventually left to sit alone outside. 
 
 # Suzhou (5/29)
 
