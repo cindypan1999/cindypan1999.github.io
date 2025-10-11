@@ -1,6 +1,7 @@
-![glow](https://github.com/user-attachments/assets/316ab8b2-d371-403d-b560-a9524495b24c)---
+---
 tag: Travel
 ---
+
 ## china week 2
 
 <style>
