@@ -9,9 +9,9 @@ img {
   width: 400px;
 }
 </style> 
-# Zhangjiajie (5/25-5/27)
+# Zhangjiajie (May 25-27)
 
-#### 5/25
+#### May 25
 
 We travelled eight hours from Chongqing to reach Zhangjiajie. The train we took this time was definitely vintage. On the train, I was amused by the mango candy salesman. I’ve never met anyone more enthusiastic and charismatic in my life. The way he marketed the candy to the silent and unbothered train passengers deeply inspired me. I plan to bring some of his attitude into my own life. My admiration for him led me to purchase a large bag of mango candy. 
 
@@ -19,7 +19,7 @@ We travelled eight hours from Chongqing to reach Zhangjiajie. The train we took 
 
 When we got off the train, we discovered our luggage was covered in a thick coat of cigarette ash. When I blew my nose a few hours later, I blew ash into the tissue paper. Sam was distraught by this and abruptly windexed his entire suitcase on the train platform.
 
-My dad and Selina allegedly requested an English tour guide but once we met him, it was apparent he only spoke Chinese. Mr. Huang comes from a longer generation of people who have lived in the village within Zhangjiajie and spent all of his life there. Lucky for us, he had extensive knowledge of the culture and history there and ended up being quite the character. I was secretly excited by his inability to speak English because I wanted to continue practicing my Chinese but this also meant no one else could communicate with him and vice versa. My excitement turned to frustration once I realized how much talking and translating I had to do. 
+My dad and Selina allegedly requested an English tour guide but once we met him, it was apparent he only spoke Chinese. Mr. Huang comes from a long generation of people who have lived in the village within Zhangjiajie and spent all of their life there. Lucky for us, he had extensive knowledge of the culture and history there and ended up being quite the character. I was secretly excited by his inability to speak English because I wanted to continue practicing my Chinese but this also meant no one else could communicate with him and vice versa. My excitement turned to frustration once I realized how much talking and translating I had to do. 
 
 We went to QiXing mountain where we walked up to the large circular observation deck made of glass. The view was beautiful but the glass terrified me and I found myself unable to walk. No one else was affected.
 
@@ -29,13 +29,13 @@ At night, we went to the seventy two wonders tower where again we found ancient 
 
 <img src="/pictures/china/zhanghotel.jpg"/>
 
-#### 5/26
+#### May 26
 
 In the morning, our first stop was the Bailong elevator. The ride into the mountains was breathtaking. We drove through the valleys with famous vertical pillars towering over us. The elevator, both scenic and efficient, rocketed us to the tops of the pillars, where we began a promenade that brought us to the most iconic viewpoints where we looked down into the valley at the pillars. This area was called Yuanjiajie. One of these viewpoints included the mountain featured in Avatar, which has now been named Avatar mountain. 
 
 <img src="/pictures/china/monkey.jpg"/>
 
-The monkeys stole the show for me. I’ve never seen monkeys in the wild before, and I was so excited to see them!! Their eyes resemble human eyes which made me feel a bond with them, though likely imaginary. We saw tons and tons of monkeys, some eating, some stealing food from tourists, babies clutching their mothers, etc. 
+The monkeys stole the show for me. I’ve never seen monkeys in the wild before, and they far exceeded my expectations. Their eyes resemble human eyes which made me feel a bond with them, though likely imaginary. We saw tons and tons of monkeys, some eating, some stealing food from tourists, babies clutching their mothers, etc. 
 
 <img src="/pictures/china/sam.jpg"/>
 
@@ -44,31 +44,29 @@ It was hot and crowded, but it was really cool to see such a unique landscape th
 <img src="/pictures/china/mountain.jpg"/>
 <img src="/pictures/china/tall.jpg"/>
 
-Later in the day, we went to Tian Zi Shan where we continued to see sweeping views of the spikes and pillars. We ended our marathon of a day at 10 Miles Gallery where we were now back in the valley and walked along a beautiful pathway surrounded by towering pillars. Our tour guide heavily negotiated with us to convince us to take the train, but we opted to walk and watched him take the pastel colored train past us. Mr. Huang had a way of being very persuasive which made us suspicious of his secret motives, but in this case, I think he was just desperately over walking. On our walk, we played a fun game where me and Sam had 3 secret words, Rebecca and Michelle had 3 secret words, and we had to work it in conversation. 
+Later in the day, we went to Tian Zi Shan where we continued to see sweeping views of the spikes and pillars. We ended our marathon of a day at 10 Miles Gallery where we were now back in the valley and walked along a beautiful pathway surrounded by towering pillars. Our tour guide heavily negotiated with us to convince us to take the train, but we opted to walk and watched him take the pastel colored train past us. Mr. Huang had a way of being very persuasive which made us suspicious of his secret motives, but in this case, I think he was just desperately tired of walking. On our walk, we played a fun game where me and Sam had 3 secret words, Rebecca and Michelle had 3 secret words, and we had to work it in conversation. 
 
-At the end of the 10 Mile Gallery, we discovered a really depressing cement enclosure with one very angry monkey and another with a very destitute looking monkey family. I asked Mr. Huang what was going on. He revealed that I had observed the monkey jail. Some monkeys had become too aggressive about stealing food from tourists in the park. For example, one of those monkeys had seriously mauled someone’s arm. I believed this to be true because these monkeys were macaque, “wild and unruly in nature”, therefore very naughty. I had seen many of them stealing food out of people’s hands and even harassing them in my short time in Zhangjiajie thus far. This made me feel better about the monkey jail.
+At the end of the 10 Mile Gallery, we discovered a really depressing cement enclosure with one very angry monkey and another with a very destitute looking monkey family. I asked Mr. Huang what was going on. He revealed that I had observed the monkey jail. Some monkeys had become too aggressive about stealing food from tourists in the park. For example, one of those monkeys had seriously mauled someone’s arm. I believed this to be true because these monkeys were macaque, “wild and unruly in nature”, therefore very naughty. I had seen many of them stealing food out of people’s hands and even harassing them in my short time in Zhangjiajie thus far. This made me feel better about the ethics of the monkey jail.
 
 At night we had a comical dinner situation where Sam and I sat across from Michelle and Rebecca at a giant round table meant for 15. We were very far from each other. By this point, we had really nailed down how to order and we continuously ordered the same food again and again, our formula never letting us down: 3 meats (beef, pork, pork) + 3 vegetables (eggplant, spinach, cauliflower) + rice + fun drink.
 
 <img src="/pictures/china/smoke.jpg"/>
  
-At night, we went to a performance intended to describe the history of Zhangjiajie. The performance left my jaw dropped. It had traditional music, unbelievable acrobatics, the most creative performances, and much more. I was stunned by the production which by no easy feat caputed my attention the entire time.
+At night, we went to a performance intended to describe the history of Zhangjiajie. The performance left my jaw dropped. It had traditional music, unbelievable acrobatics, the most creative performances, and much more. I was stunned by the production which by no easy feat captured my attention the entire time.
 
 On our way out, we found that there was another performance going on in the larger square. Here we watched some terrifying knife throwing, blade walking, fire centric performances, and another one where they put 1000 pounds on a man lying down. I couldn’t believe this was all happening on a Monday night!
 
-#### 5/27
+#### May 27
 
 <img src="/pictures/china/huang.jpg"/>
 
 On our third and final day here, we went to the renowned Zhangjiajie Glass Bridge, one of the longest in the world. This was located far from the NP entrance and deep in the Zhangjiajie Grand Canyon. We drove through a remote farming town to reach the entrance. The glass bridge was insanely long. Luckily, it wasn’t as nerve-wracking for me as the glass observation deck was. At the end of the bridge, we were funneled to the zipline area where we glided over the canyon. Then, we put on cloth pants and slid down a metal slide that deposited us on the canyon grounds. It was a comical experience with everyone sliding at different rates, and slower sliders panicking from the fear of being slid into. In the valley, we took a scenic boat ride where we observed waterfalls and the lush vegetation growing on the cliffs of the canyon. 
 
-To get back up, we took a series of elevators and ended up at the VR experience. This was my first time doing VR and it was incredible. Unbeknownst to me, this would mark the beginning of a series of VR games I would go on to play in Seattle. We flew through the canyon experiencing different seasons, and I felt like a bird. This marked the end of our adventure package at the grand canyon.
-
-For lunch we had one of our best meals yet. At this point, we had many iterations of ordering together and perfected our strategy, resulting in a very satiated group. 
+To get back up, we took a series of elevators and ended up at the VR experience. This was my first time doing VR and it was incredible. Unbeknownst to me, this would mark the beginning of a series of VR games I would go on to play in Seattle. We flew through the canyon experiencing different seasons, and I felt like a bird. 
 
 <img src="/pictures/china/tea.jpg"/>
 
-After lunch, we made a pit stop at the tea shop for a tea tasting because it was pouring outside. This tea experience exceeded all our expectations because we got to try many different teas, learn about Chinese tea history, and have an authentic tea experience practicing the different customs and hand signals. One of the teas we tried was native to the Zhangjiajie area, growing only in the tiny vertical cracks of the signature rock pillars. This specific tea is coated in a white frost rich with flavonoids. It starts off purple and turns green once in water. The coolest thing about this tea is that it tastes sweeter the more you drink and eventually makes everything you eat taste sweet. I bought some Chrysanthemum tea which is my favorite. 
+After lunch,  which was one of our best meals yet, we made a tea tasting pitstop because it was pouring outside. This tea experience exceeded all our expectations because we got to try many different teas, learn about Chinese tea history, and have an authentic tea experience practicing the different customs and hand signals. One of the teas we tried was native to the Zhangjiajie area, growing only in the tiny vertical cracks of the signature rock pillars. This specific tea is coated in a white frost rich with flavonoids. It starts off purple and turns green once in water. The coolest thing about this tea is that it tastes sweeter the more you drink and eventually makes everything you eat taste sweet. I bought some Chrysanthemum tea which is my favorite. 
 
 <img src="/pictures/china/tianmenrock.jpg"/>
 
@@ -76,11 +74,11 @@ After tea, we finally went to go see Tianmen Shan, the mountain that has a huge 
 
 At the end of this day, we ate another meal at the first place we had dinner in Zhangjiajie, commencing the end of our mountain segment of the trip. Having arrived at the airport early, we enjoyed the luxurious massage chairs before passing out on the plane. 
 
-# Shanghai (5/27-5/28)
+# Shanghai (May 27-28)
 
 Given our midnight arrival, we didn’t get to see the city until morning. Shanghai felt noticeably different the moment we stepped out of our hotel. It felt strikingly refined and clean for such a giant city. 
 
-#### 5/28
+#### May 28
 
 On our first day we went to a cafe downstairs for dinner and were completely amazed to see the cafe selling a variety of food from coffee to beef noodle soup to ice cream to waffles. I ordered an insanely delicious beef noodle soup. I wish I could eat beef noodle soup for breakfast everyday. At breakfast, we learned about the convoluted history of Shanghai. In short, Shanghai is a fishing village turned international industrial hub due to foreign concessions. Foreign concessions are areas within the city under foreign jurisdiction. In this case, many areas in Shanghai were governed by the French or British which this explains the western influence felt in the city and clusters of European building amid Chinese streets. 
 
@@ -98,9 +96,9 @@ At night we went on a long bike ride to Yu Yuan where all the buildings were lit
 <img src="/pictures/china/roof.jpg"/>
 <img src="/pictures/china/duck.jpg"/>
 
-Once we returned to the hotel, we went to the rooftop bar to redeem their promotion to receive a free cocktail upon posting a tiktok of the establishment. We stepped into the bar and discovered magnificent views of the Bund and the surrounding city. We quickly posted our tiktoks and the bartender served us tasty cocktails. To add to other amazing experience, my cousin Wei Wei spontaneously sent us sweet teas, which we had been in love with since trying. Just when things couldn't get better, we discovered the bar had karaoke. Resolute to performance Taylor Swift to the empty bar, we fiddled with the Chinese karaoke machine and after engaging the bartender, it finally worked. We proceeded to sing many Taylor Swift songs to the bartender who eventually left to sit alone outside. 
+Once we returned to the hotel, we went to the rooftop bar to redeem their promotion to receive a free cocktail upon posting a tiktok of the establishment. We stepped into the bar and discovered magnificent views of the Bund and the surrounding city. We quickly posted our tiktoks and the bartender served us tasty cocktails. To add to the amazing experience, my cousin Wei Wei spontaneously sent us sweet teas, which we had been in love with since trying. Just when things couldn't get better, we discovered the bar had karaoke. Resolute to performance Taylor Swift to the empty bar, we fiddled with the Chinese karaoke machine and after engaging the bartender, it finally worked. We proceeded to sing many Taylor Swift songs to the bartender who eventually left to sit alone outside. 
 
-# Suzhou (5/29)
+# Suzhou (May 29)
 
 <img src="/pictures/china/cindymeal.jpg"/>
 
@@ -110,7 +108,7 @@ We took a day trip to Suzhou. It was beyond easy. We hopped on the high speed tr
 
 <img src="/pictures/china/flowermeal.jpg"/>
 
-After the garden, we ventured into the famous shopping street, Pingjiang Road which runs parallel to Pingjiang River, a charming stream that people take boat rides on to observe the beautiful scenery of the street. Fragrant scents immediately lured us into a perfume shop, a commodity in China. I went completely nose blind and bought two perfumes that I think smelled good. And then everyone bought perfume. I believe cheaper perfume stores would do very well in America. We also stopped for some incredible $4 noodles, sat in miniature chairs, and drank out of bamboo cups. 
+After the garden, we ventured into the famous shopping street, Pingjiang Road which runs parallel to Pingjiang River, a charming stream that people take boat rides on to observe the beautiful scenery of the street. Fragrant scents immediately lured us into a perfume shop, a commodity in China. I went completely nose blind and bought two perfumes that I think smelled good. I believe cheaper perfume stores would do very well in America. We also stopped for some incredible $4 noodles, sat in miniature chairs, and drank out of bamboo cups. 
 
 <img src="/pictures/china/sticky.jpg"/>
 
@@ -120,11 +118,11 @@ As we strolled, I noticed everyone was eating delicious looking cones filled wit
 
 <img src="/pictures/china/michelle.jpg"/>
 
-Finally we reached our target destination, which was the famous cat cafe where giant expensive cats lounge on the roof of the building. We urgently purchased entry and ran upstairs. To my delight, I found so many adorable kittens. We were all obsessed with the munchkin cats, I have never seen something so cute in my life. We stayed there for hours. Upon leaving, we saw a shiba dressed in Hawaiian gear shaking its butt in front of the window.
+Finally we reached our target destination, which was the famous cat cafe where giant expensive cats lounge on the roof of the building. We urgently purchased entry and ran upstairs. To my delight, I found many adorable kittens. We were all obsessed with the munchkin cats, I have never seen something so cute in my life. We stayed there for hours. Upon leaving, we saw a shiba dressed in Hawaiian gear shaking its butt in front of the window.
 
-# Shanghai (5/30-5/31)
+# Shanghai (May 30-31)
 
-#### 5/30
+#### May 30
 
 <img src="/pictures/china/bratz.jpg"/>
 
@@ -134,7 +132,7 @@ For dinner we went to a michelin restaurant and ate soooo many delicious xiao lo
 
 <img src="/pictures/china/bund.jpg"/>
 
-We had one of the best nights of our trip. We put on the new little tank tops we bought earlier that day and got ready to go to a stunning rooftop bar, Roosevelt Bar. It had jawdropping panoramic views of the skyline right up close. We were in awe and took a million photographs. The DJ was going hard with the Weeknd and we got a few different fun cocktails. At the end, we headed to the destination we had been anticipating all week, INS Park, the six story nightclub.
+We had one of the best nights of our trip. We put on the new tank tops we bought earlier that day and got ready to go to a stunning rooftop bar, Roosevelt Bar. It had jawdropping panoramic views of the skyline right up close. We were in awe and took a million photographs. The DJ was going hard with the Weeknd and we got a few different fun cocktails. At the end, we headed to the destination we had been anticipating all week, INS Park, the six story nightclub.
 
 <img src="/pictures/china/inns.jpg"/>
 
@@ -142,7 +140,7 @@ At the legendary six story nightclub, we bought $40 entry tickets that grant you
 
 It was endearing seeing Michelle drunk, trying to speak to people in Chinese. It was so funny because she kept going up to people saying “Ni Hao” and most of the time they responded in English because her Chinese isn’t good and a lot of people in Shanghai speak English. We had a night to remember and then when I came home, Sam had my ramen that I had carried across the country ready and steaming hot for me.
 
-#### 5/31
+#### May 31
 
 Before heading to the airport, I knew I needed to eat Zongzi in China. I dragged the crew to a nearby mall where we had indeed delicious zongzi. Finally, Sam and I said our goodbyes to Michelle and Rebecca, and headed to the airport. Our flight home, a direct flight lasting only 10 hours, was amusing thanks to a very dramatic flight attendant. Her urgent screams pulling me out of slumber triggered a fight or flight response in me each time. Each time, as it dawned on me that she had simply dropped a napkin, ran out of a certain soda, or was simply talking, I went back to sleep. The way she threw airplane meals at us and screamed across the aircraft that she was running out of chicken meals would have also left you thinking she was a soldier on the frontier. Thankfully, I appreciate people who keep it interesting at the expense of my peace. 
 
