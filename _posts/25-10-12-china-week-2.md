@@ -21,7 +21,7 @@ When we got off the train, we discovered our luggage was covered in a thick coat
 
 My dad and Selina allegedly requested an English tour guide but once we met him, it was apparent he only spoke Chinese. Mr. Huang comes from a long generation of people who have lived in the village within Zhangjiajie and spent all of their life there. Lucky for us, he had extensive knowledge of the culture and history there and ended up being quite the character. I was secretly excited by his inability to speak English because I wanted to continue practicing my Chinese but this also meant no one else could communicate with him and vice versa. My excitement turned to frustration once I realized how much talking and translating I had to do. 
 
-We went to QiXing mountain where we walked up to the large circular observation deck made of glass. The view was beautiful but the glass terrified me and I found myself unable to walk. No one else was affected.
+We went to QiXing mountain where we walked up to the large circular observation deck made of glass. The view was beautiful but the glass terrified me and I found myself unable to walk.
 
 <img src="/pictures/china/porkbelly.jpg"/>
 
@@ -94,13 +94,13 @@ We prioritized shopping and took a pleasant bike ride along the water to end up 
 At night we went on a long bike ride to Yu Yuan where all the buildings were lit up in bright red. It was beautiful. We also fortunately stumbled upon a mango stand where you could purchase a large cup of freshly sliced up mango. It was so juicy and sweet Michelle ascended to heaven. I wish to bring this to America.
 
 <img src="/pictures/china/roof.jpg"/>
-<img src="/pictures/china/duck.jpg"/>
+<img src="/pictures/china/ducktea.jpg"/>
 
 Once we returned to the hotel, we went to the rooftop bar to redeem their promotion to receive a free cocktail upon posting a tiktok of the establishment. We stepped into the bar and discovered magnificent views of the Bund and the surrounding city. We quickly posted our tiktoks and the bartender served us tasty cocktails. To add to the amazing experience, my cousin Wei Wei spontaneously sent us sweet teas, which we had been in love with since trying. Just when things couldn't get better, we discovered the bar had karaoke. Resolute to performance Taylor Swift to the empty bar, we fiddled with the Chinese karaoke machine and after engaging the bartender, it finally worked. We proceeded to sing many Taylor Swift songs to the bartender who eventually left to sit alone outside. 
 
 # Suzhou (May 29)
 
-<img src="/pictures/china/cindymeal.jpg"/>
+<img src="/pictures/china/cindygarden.jpg"/>
 
 <img src="/pictures/china/perfume.jpg"/>
 
