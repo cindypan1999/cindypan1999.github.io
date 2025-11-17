@@ -9,8 +9,8 @@ tag: Goals
 - [x] Host a party on the roof
 - [ ] Do one 10 mile run
 - [x] Go to a haunted house
-- [ ] Join a tennis league
-- [ ] Volunteer at a local organization
+- [x] Join a tennis league
+- [x] Volunteer at a local organization
 - [ ] Host an amazing potlock Thanksgiving dinner
 - [ ] See a drive-in movie
 - [x] Go to Silverwood Theme Park
