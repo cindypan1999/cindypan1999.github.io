@@ -11,11 +11,11 @@ tag: Goals
 - [x] Go to a haunted house
 - [x] Join a tennis league
 - [x] Volunteer at a local organization
-- [ ] Host an amazing potlock Thanksgiving dinner
+- [x] Host an amazing potlock Thanksgiving dinner
 - [ ] See a drive-in movie
 - [x] Go to Silverwood Theme Park
 - [x] Visit Ilana in Virginia Beach and meet Drew
 - [x] Visit Jayla in DC and meet Alec
-- [ ] Bake an apple pie
+- [x] Bake an apple pie
 - [x] Go to Greece
 - [x] Play squabble
