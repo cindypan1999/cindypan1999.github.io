@@ -4,7 +4,7 @@ tag: Goals
 
 ## WINTER BUCKET LIST 2025
 
-<img src="/pictures/winter.jpg"/>
+<img src="/pictures/IMG_3875.jpg"/>
 
 - [ ] Ski in Colorado w Sam and his family
 - [ ] Go to Schweitzer again
