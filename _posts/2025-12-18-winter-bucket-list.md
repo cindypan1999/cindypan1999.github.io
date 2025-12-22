@@ -13,3 +13,4 @@ tag: Goals
 - [ ] Take a writing class
 - [ ] Do one 10 mile run
 - [ ] Ski at Crystal 5 times
+- [ ] Switch team at work
