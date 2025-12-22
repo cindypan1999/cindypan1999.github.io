@@ -12,4 +12,4 @@ tag: Goals
 - [ ] Go to Palm Springs w Annie and Grace
 - [ ] Take a writing class
 - [ ] Do one 10 mile run
-- [ ] See a drive-in movie
+- [ ] Ski at Crystal 5 times
