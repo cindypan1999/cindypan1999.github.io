@@ -13,7 +13,7 @@ This discomfort is compounded by the way I crave and glamorize wild and drastic 
 
 I need structure to succeed, and sometimes, simply to move forward, so I’ll start by recapping my year in the following categories: travel, work, hobbies, and relationships. 
 
-Like most years, January, February, and March were full of skiing. Sam and I celebrated our anniversary by visiting <b>Schweitzer Mountain in Idaho</b> which we concluded to be underrated and spectacular. In February,  I celebrated my Graysie’s birthday by spending a cozy weekend in <b>Manzanita, Oregon</b>. In March, I visited low-traffic parts of <b>California (Visalia, Bakersfield, Santa Clarita)</b> with my family, ultimately settling in <b>Palm Springs</b> for Indian Wells over the weekend. We had a delightful family vacation full of pickleball, tennis, biking, and chaotic planning and execution. In April, I visited Phebe in <b>SF</b> and experienced true spring skiing in <b>Tahoe</b> as I sported my sweater, no gloves and sweat drenched snowpants around the mountain. 
+Like most years, January, February, and March were full of skiing. Sam and I celebrated our anniversary by visiting <b>Schweitzer Mountain in Idaho</b> which we concluded to be underrated and spectacular. In February,  I celebrated Graysie’s birthday by spending a cozy weekend in <b>Manzanita, Oregon</b>. In March, I visited low-traffic parts of <b>California (Visalia, Bakersfield, Santa Clarita)</b> with my family, ultimately settling in <b>Palm Springs</b> for Indian Wells over the weekend. We had a delightful family vacation full of pickleball, tennis, biking, and chaotic planning and execution. In April, I visited Phebe in <b>SF</b> and experienced true spring skiing in <b>Tahoe</b> as I sported my sweater, no gloves and sweat drenched snowpants around the mountain. 
 
 Then, the big one. I visited <b>China</b> for two weeks bringing Sam and reuniting with all my extended family. This was a really special trip for the both of us, and we’ll remember our time spent in <b>Beijing, Tianjin, Chongqing, Zhangjiajie, and Shanghai</b> forever. In June, I went back to **SF** for a work trip where I spontaneously spoke on stage for ~3 minutes. In the summer, as a birthday gift for Sam, we went back to **Estacada, Oregon** where we spent our first weekend vacation together three years ago. We made a delectable dinner over the firepit and enjoyed the sunset, and Sam tricked me into an incredibly demanding bike ride around **Mt.Hood**. 
 
@@ -32,22 +32,22 @@ While the Urgent care visit was fruitful in the sense that it indirectly led to 
 My year wasn’t full of mystery and shock, and it wasn’t life changing in the ways I love. However, it was consistent and built on my previous successes and interests. I experienced a lot of happiness nonetheless and am continuing to work towards my goals and spend time doing the things I love. This is the bulk of what life is and what positive change looks like, so I need to learn to appreciate the slow progress and small wins. In this next year, I must admit I do crave change and life changing events. Whether or not that happens, I look forward to a good year. 
 
 Ranking the Books I Read:
-- Boys in the boat
-- Either/Or
-- Down the drain
-- Dr. Jekyll and Mr. Hyde
-- Eleanor Oliphant 
-- The midnight feast
-- Red rising
-- Fight club
-- The good life
+1) Boys in the boat
+2) Either/Or
+3) Down the drain
+4) Dr. Jekyll and Mr. Hyde
+5) Eleanor Oliphant 
+6) The midnight feast
+7) Red rising
+8) Fight club
+9) The good life
 
 Ranking Movies I Saw:
-- Sinners
-- Bugonia 
-- Chainsaw Man
-- One Battle After Another
-- Weapons
-- F1
+1) Sinners
+2) Bugonia 
+3) Chainsaw Man
+4) One Battle After Another
+5) Weapons
+6) F1
 
 
