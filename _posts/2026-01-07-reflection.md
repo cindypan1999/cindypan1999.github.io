@@ -32,22 +32,22 @@ While the Urgent care visit was fruitful in the sense that it indirectly led to 
 My year wasn’t full of mystery and shock, and it wasn’t life changing in the ways I love. However, it was consistent and built on my previous successes and interests. I experienced a lot of happiness nonetheless and am continuing to work towards my goals and spend time doing the things I love. This is the bulk of what life is and what positive change looks like, so I need to learn to appreciate the slow progress and small wins. In this next year, I must admit I do crave change and life changing events. Whether or not that happens, I look forward to a good year. 
 
 Ranking the Books I Read:
-1) Boys in the boat
-2) Either/Or
-3) Down the drain
-4) Dr. Jekyll and Mr. Hyde
-5) Eleanor Oliphant 
-6) The midnight feast
-7) Red rising
-8) Fight club
-9) The good life
+1. Boys in the boat
+2. Either/Or
+3. Down the drain
+4. Dr. Jekyll and Mr. Hyde
+5. Eleanor Oliphant 
+6. The midnight feast
+7. Red rising
+8. Fight club
+9. The good life
 
 Ranking Movies I Saw:
-1) Sinners
-2) Bugonia 
-3) Chainsaw Man
-4) One Battle After Another
-5) Weapons
-6) F1
+1. Sinners
+2. Bugonia 
+3. Chainsaw Man
+4. One Battle After Another
+5. Weapons
+6. F1
 
 
