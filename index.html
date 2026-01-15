@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Question</title>
+</head>
+<body>
+
+<script>
+  const ANSWER = "pizza"; // <-- change this
+
+  const userAnswer = prompt("What is my favorite food?");
+
+  if (!userAnswer || userAnswer.toLowerCase().trim() !== ANSWER) {
+    document.body.innerHTML = "<h2>Wrong answer 😬</h2>";
+  } else {
+    document.body.innerHTML = `
+      <h1>Welcome 🎉</h1>
+      <p>You got it right.</p>
+    `;
+  }
+</script>
+
+</body>
+</html>
