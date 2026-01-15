@@ -1,3 +1,10 @@
+<script>
+  const ANSWER = "pizza";
+  const userAnswer = prompt("What is my favorite food?");
+  if (!userAnswer || userAnswer.toLowerCase().trim() !== ANSWER) {
+    document.body.innerHTML = "<h2>Wrong answer 😬</h2>";
+  }
+</script>
 <img src="/pictures/collage.png"/>
 
 
