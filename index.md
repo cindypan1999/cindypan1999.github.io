@@ -1,11 +1,22 @@
 <script>
   const ANSWER = "pizza";
   const userAnswer = prompt("What is my favorite food?");
+
   if (!userAnswer || userAnswer.toLowerCase().trim() !== ANSWER) {
     document.body.innerHTML = "<h2>Wrong answer 😬</h2>";
+  } else {
+    document.body.style.display = "block";
   }
 </script>
-<img src="/pictures/collage.png"/>
+
+<style>
+  body {
+    display: none;
+  }
+</style>
+
+<img src="/pictures/collage.png" />
+
 
 
 Hi, I'm Cindy – welcome to my blog! During the weekdays, I'm working as a software engineer, but on the weekends, I get to go on adventures and explore my passions. This is where I will share my travel stories, personal projects, and any thoughts that I need to externalize. This blog is born out of my need to document, compose, create, and express. Enjoy!
