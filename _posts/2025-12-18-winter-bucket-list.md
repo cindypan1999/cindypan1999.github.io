@@ -1,5 +1,5 @@
 ---
-tag: Goals
+tag: goals
 ---
 
 ## WINTER BUCKET LIST 2025

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Highlights
+title: highlights
 ---
 
 {% assign highlight_posts = site.tags.Highlights %}

@@ -1,5 +1,5 @@
 ---
-tag: Goals
+tag: goals
 ---
 
 ## FALL BUCKET LIST 2025

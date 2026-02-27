@@ -1,5 +1,5 @@
 ---
-tag: Highlights
+tag: highlights
 ---
 
 ## july highlights!!!

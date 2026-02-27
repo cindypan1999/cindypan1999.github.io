@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Travel
+title: travel
 ---
 
-{% assign travel_posts = site.tags.Travel %}
+{% assign travel_posts = site.tags.travel %}
 {% if travel_posts %}
 
   <ul>

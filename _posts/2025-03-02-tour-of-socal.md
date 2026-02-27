@@ -1,5 +1,5 @@
 ---
-tag: Travel
+tag: travel
 ---
 
 ## tour of socal

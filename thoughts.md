@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thoughts
+title: thoughts
 ---
 
 {% assign thought_posts = site.tags.Thoughts %}

@@ -1,5 +1,5 @@
 ---
-tag: Travel
+tag: travel
 author: "Cindy Pan"
 ---
 

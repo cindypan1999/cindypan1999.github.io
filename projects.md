@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Projects
+title: projects
 ---
 
-{% assign project_posts = site.tags.Projects %}
+{% assign project_posts = site.tags.projects %}
 {% if project_posts %}
   <ul>
     {% for post in project_posts %}

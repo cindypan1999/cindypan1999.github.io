@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Goals
+title: goals
 ---
 
 {% assign goal_posts = site.tags.Goals %}

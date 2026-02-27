@@ -1,5 +1,5 @@
 ---
-tag: Goals
+tag: goals
 ---
 
 ## 2026 New Years Resolutions!

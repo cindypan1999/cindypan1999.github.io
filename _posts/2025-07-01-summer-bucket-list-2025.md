@@ -1,5 +1,5 @@
 ---
-tag: Goals
+tag: goals
 ---
 
 ## SUMMER BUCKET LIST 2025

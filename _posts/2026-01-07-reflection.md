@@ -1,5 +1,5 @@
 ---
-tag: Thoughts
+tag: thoughts
 author: "Cindy Pan"
 ---
 
