@@ -3,7 +3,7 @@ layout: page
 title: highlights
 ---
 
-{% assign highlight_posts = site.tags.Highlights %}
+{% assign highlight_posts = site.tags.highlights %}
 {% if highlight_posts %}
   <ul>
     {% for post in highlight_posts %}

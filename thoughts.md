@@ -3,7 +3,7 @@ layout: page
 title: thoughts
 ---
 
-{% assign thought_posts = site.tags.Thoughts %}
+{% assign thought_posts = site.tags.thoughts %}
 {% if thought_posts %}
   <ul>
     {% for post in thought_posts %}

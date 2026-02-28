@@ -3,7 +3,7 @@ layout: page
 title: goals
 ---
 
-{% assign goal_posts = site.tags.Goals %}
+{% assign goal_posts = site.tags.goals %}
 {% if goal_posts %}
   <ul>
     {% for post in goal_posts %}
