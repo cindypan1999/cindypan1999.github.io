@@ -5,7 +5,7 @@ tag: travel
 ## palm springs
 
 
-### gallery
+### Gallery!
 
 <style>
 .masonry {
@@ -58,38 +58,42 @@ tag: travel
   <img src="/pictures/palmsprings/comm.jpeg"/>
 </div>
 
-### itinerary
+### Itinerary!
 
 #### Thursday 2/19
 
-* **Evening**: Met up with Annie and Grace at the airport. Boarded our flight for a quick weekend trip to the sunny and vibrant desert lands of Palm Springs, CA. 
+* **Evening**: Met up with Annie and Grace at the airport. Boarded our flight for a quick weekend escape to the sunny and vibrant desert lands of Palm Springs, CA!!! 
 
 #### Friday 2/20
 
-* **Morning**: Work by the glimmering pool and fresh outdoors. Drink coffee and eat bagels. 
+* **Morning**: Worked by the glimmering pool in the fresh outdoors. Drank coffee and ate bagels in the sunshine. 
 
-* **Noon**: Trader Joe's stop to get all our food for the weekend! Sandwiches for lunch.
+* **Noon**: Stopped at Trader Joe's for weekend essentials. Sandwiches for lunch.
 
 * **Afternoon**: Walked to the community pool and chilled in the hot tub. 
 
-* **Evening**: Annie cheffed up a delicious creamy vegan pasta featuring asparagus, mushrooms and spagetti. Wonderful dinner with Jill. 
+* **Evening**: Annie cheffed up a delicious creamy vegan pasta featuring asparagus, mushrooms, and spaghetti. Wonderful dinner with Jill. 
 
 #### Saturday 2/21
 
-* **Morning**: Picked up our monster truck and then ran 6 miles. 
+* **Morning**: Picked up our monster truck. Ran 6 miles and got a lay of the land.
 
-* **Noon**: Sandwiches by the pool for lunch and quick dip!
+* **Noon**: Poolside sandwiches and a quick dip.
 
-* **Afternoon**: Thrifted around La Quinta and all found good stuff! Caught the tall end of our downtown art market.
+* **Afternoon**: Thrifted around La Quinta and all had great finds. Caught the tail end of the downtown art market.
 
-* **Evening**: Went to dinner with Jill at Wildest. Feasted on crispy skin sea bass. Ice cream for dessert at Handles. 
+* **Evening**: Went to dinner with Jill at Wildest where we feasted on crispy-skin sea bass. Ice cream for dessert at Handel's. 
 
 #### Sunday 2/22
 
-* **Morning**: Drove to Indian Canyons and did a stunning 5mi hike crossing streams and palm trees. 
+* **Morning**: Drove to Indian Canyons and did a stunning 5-mile hike crossing streams beneath swaying palm trees. 
 
 * **Noon**: Lunch at the canyon. 
 
 * **Afternoon**: Thrifted and explored downtown Palm Springs.
 
-* **Evening**: Grace cheffed up a delectable stir fry with shaved tofu, thick noodles, and a vegetable medley. 
+* **Evening**: Grace whipped up a delectable stir-fry with shaved tofu, thick noodles, and a vegetable medley. 
+
+#### Monday 2/23
+
+* **Morning**: Woke up at the crack of dawn to go to the airport. 

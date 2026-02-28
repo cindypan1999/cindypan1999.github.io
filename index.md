@@ -1,4 +1,4 @@
-<script>
+<!-- <script>
   const ANSWER = "cat";
   const userAnswer = prompt("What is my favorite animal?");
 
@@ -7,11 +7,11 @@
   } else {
     document.body.style.display = "block";
   }
-</script>
+</script> -->
 
 <style>
   body {
-    display: none;
+    display: block;
   }
 </style>
 
@@ -37,7 +37,6 @@ Hi, I'm Cindy – welcome to my blog! During the weekdays, I'm working as a soft
         <div class="optionalParent">
             <div class="clear foot">
                 <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe!">
-                
             </div>
         </div>
     </div>
