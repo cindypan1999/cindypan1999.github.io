@@ -96,4 +96,4 @@ tag: travel
 
 #### Monday 2/23
 
-* **Morning**: Woke up at the crack of dawn to go to the airport. 
+* **Morning**: Woke up at the crack of dawn to go to the airport. Said our farewells sadly.
