@@ -4,6 +4,8 @@ tag: travel
 
 ## new york city
 
+*Written by Cindy Pan and Sam Tipps*
+
 <img src="/pictures/nyc.jpg"/>
 
 ## January 3
@@ -49,5 +51,3 @@ Feeling energized yet famished from this escapade, they decide to get a slice of
 Cindy wakes up to the thought of trying to get out of the run they have planned. Sam wakes up excited to see Cindy. It is easy for Cindy to get out of running because no one wants to run either. Cindy and Sam meet Mars and Anna at a coffee shop. It is a unique coffee shop that leaves baby carrots in customer drinks. Cindy believes all New York stores try antics like this to make a lasting impression on their customers and to distinguish themselves from the other hundred stores in their domain. A clever trick that works well. When they leave the store, it becomes apparent Mars is walking with a limp. It is a reminder of the unprecedented run he accomplished yesterday. Their next stop is Black Seed Bagel. The group eats an amazing BEC. Cindy is wowed.
 
 Next, the group moves on to complete their promenade. They aimlessly follow Anna. They stop in a store, and Cindy purchases sunglasses and Anna a hat. Because the group is food oriented, Cindy and Sam stop by a deli to prepare for their bus ride. Shortly thereafter, they say their goodbyes and Cindy and Sam depart the city, taking with them a lifetime of memories.
-
-*Written by Cindy Pan and Sam Tipps*

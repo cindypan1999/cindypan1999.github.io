@@ -14,4 +14,5 @@ tag: goals
 - [ ] Do one 10 mile run
 - [x] Host a Galentine's brunch
 - [ ] Ski at Crystal 5 times
-- [ ] Switch team at work
+- [x] Switch teams at work
+- [x] Belay certified with Allie 

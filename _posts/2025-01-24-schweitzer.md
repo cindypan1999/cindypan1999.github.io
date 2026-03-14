@@ -4,6 +4,7 @@ author: "Cindy Pan"
 ---
 
 ## schweitzer
+*Written by Cindy Pan and Sam Tipps*
 
 <img src="/pictures/schweitzer.jpg"/>
 
@@ -46,6 +47,3 @@ This is a disturbing reality check for Cindy, as she is reminded that doing the 
 On cue, the two grow hungry quickly and decide to grab a bite to eat in the famous Coeur d’Alene. They arrive at a sports bar, which seems to be playing a very important football game. The restaurant is packed with people, American culture, and food. Cindy orders a very intriguing taco salad and a grapefruit fizz, while Sam opts for the pastrami sandwich and a beer. Their food quickly arrives, all except Cindy’s coveted grapefruit fizz. After a bit too long of eating and enjoying their food, Cindy’s grapefruit fizz is made by the waitress and given to its rightful owner. It is deliciously refreshing with the perfect amount of jalapeno-induced spice. They depart the restaurant and hit the road again. 
 
 Somewhere along the way, day turns to night, Cindy takes the helm, and the two return safely to Seattle. Sam is left struck with gratitude and excitement because of how fun this trip was, how much he loves spending time with Cindy, and how amazing it is to be with her for three years. He looks forward to many more. Cindy spends much time thinking of her next meal but thoughts of how wondrous life is also flutter through her mind.
-
-*Written by Cindy Pan and Sam Tipps*
-  
