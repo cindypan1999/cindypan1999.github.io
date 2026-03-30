@@ -523,6 +523,19 @@ tag: highlights
     </div>
   </div>
 
+  <div class="pin" data-month="march" style="--d:0.08s">
+    <div class="pin-img" style="height:290px">
+      
+      <img src="/pictures/florida/group2.JPG"/>
+      
+     
+    </div>
+    <div class="pin-body">
+      <div class="pin-date">march 26-29</div>
+      <div class="pin-title">fort lauderdale with the andover girls</div>
+    </div>
+  </div>
+
 </div><!-- /masonry -->
 </div><!-- /wrap -->
 
