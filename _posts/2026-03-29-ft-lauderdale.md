@@ -25,7 +25,7 @@ The girls left for the beach shortly after, but I stayed behind to work. Luckily
 
 <img src="/pictures/florida/group.JPG"/>
 
-When everyone returned, we began to prepare for the grand finale of the day: in-house hibachi. We quickly primped and proceeded to have a photoshoot in the backyard during golden hour. Mak, the hibachi connoisseur paid no mind to us as we excitedly exclaimed about the lighting and tried many photo formations. Unfortunately, he took a very unflattering group picture of us that won't be released to the public. 
+When everyone returned, we began to prepare for the grand finale of the day: in-house hibachi. We quickly primped and proceeded to have a photoshoot in the backyard during golden hour. Mak, the hibachi connoisseur, paid no mind to us as we excitedly exclaimed about the lighting and tried many photo formations. Unfortunately, he took a very unflattering group picture of us that won't be released to the public. 
 
 <img src="/pictures/florida/all.jpeg"/>
 
@@ -69,17 +69,19 @@ Our final destination was a sandbar, an area of shallow water at the intersectio
 
 <img src="/pictures/florida/squad.JPG"/>
 
-We found our way to another boat that had a slide and took turns sliding down like children. Then Phebe, Clare, and I tossed a football. From my perspective, Phebe can throw a football with the power and precision of an NFL player. 
+We found our way to another boat that had a slide and took turns sliding down like children. Then Phebe, Clare, and I tossed a football. Phebe can throw a football with the power and precision of an NFL player. 
+
+Brittany lost her Ray-Bans in the water, and then I heroically located them with my feet and fished them out. 
 
 Later, a pasty, thin white man approached me and revealed that he and his friends were guessing my ethnicity. Given that we were in an exceptionally white environment participating in notably white people activities, I was not surprised. However, I did not approve of being turned into a source of entertainment. 
 
 Apologetic and stumbling over his words, the pasty man offered me some drinks, so I collected three watermelon seltzers and took my reparations back to my boat. 
 
-Back on the boat, I vented to Sam and expressed my distaste for the murky canal water that we were simmerring in. Once that was out of my system, I returned to the water for one final pee. 
+Back on the boat, I vented to Sam and expressed my distaste for the murky canal water that we were simmering in. Once that was out of my system, I returned to the water for one final pee. 
 
 Once our tour ended and we were back in the Airbnb, we were overtaken by uncontrollable hunger as everyone devoured leftover hibachi and queso. After eating, we took a group siesta. 
 
-For dinner, Phebe grilled us delicious cheeseburgers which we ate under the tiki hut. My thoughts drifted to ice cream shortly after. We walked to an Israeli ice cream shop not too far away and discovered the region to be full of Jewish resources. The ice cream was good but not distinctly Israeli. 
+For dinner, Phebe grilled us delicious cheeseburgers which we ate under the tiki hut. My thoughts drifted to ice cream shortly after. We walked to an Israeli ice cream shop not too far away and discovered the region to be full of Jewish resources which worked out really well for Brittany. The ice cream was good but not distinctly Israeli. 
 
 At home, we settled on the couch, threw on a movie, and ended the day.
 
