@@ -75,7 +75,7 @@ Brittany lost her Ray-Bans in the water, and then I heroically located them with
 
 Later, a pasty, thin white man approached me and revealed that he and his friends were guessing my ethnicity. Given that we were in an exceptionally white environment participating in notably white people activities, I was not surprised. However, I did not approve of being turned into a source of entertainment. 
 
-Apologetic and stumbling over his words, the pasty man offered me some drinks, so I collected three watermelon seltzers and took my reparations back to my boat. 
+Apologetic and stumbling over his words, the pasty man offered me some drinks, so I collected three watermelon seltzers and took my reparations (as Shannon correctly labeled) back to my boat. 
 
 Back on the boat, I vented to Sam and expressed my distaste for the murky canal water that we were simmering in. Once that was out of my system, I returned to the water for one final pee. 
 
