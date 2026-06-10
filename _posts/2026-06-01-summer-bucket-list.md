@@ -15,3 +15,5 @@ img {
 - [ ] Enjoy Seattle with my family
 - [ ] Go backpacking
 - [ ] Hike Vesper Peak
+- [ ] Try bikepacking
+- [ ] See a drive-in movie
