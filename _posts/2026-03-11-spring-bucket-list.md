@@ -2,7 +2,7 @@
 tag: goals
 ---
 
-## SPRING BUCKET LIST 2025
+## SPRING BUCKET LIST 2026
 <style>
 img {
   width: 80%;
