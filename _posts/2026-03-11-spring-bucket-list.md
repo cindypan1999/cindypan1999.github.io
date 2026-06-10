@@ -11,11 +11,12 @@ img {
 <img src="/pictures/palmsprings/cactus2.jpeg"/>
 
 - [x] Go to Ft. Lauderdale w high school friends
-- [ ] Work remotely in Mexico city with Darshini and Preethi
-- [ ] Move in with Sam
+- [x] Work remotely in Mexico city with Darshini and Preethi
+- [x] Move in with Sam
 - [ ] Take a writing class
-- [ ] Do one 10 mile run
+- [x] Do one 10 mile run
 - [ ] Backcountry ski again
 - [x] Have a good work trip in Arizona
 - [ ] Ski at Crystal 3 times for the season
-- [ ] Go to Europe with Sam 
+- [x] Go to Europe with Sam
+- [X] Attend my cousin's PHD graduation at Purdue
