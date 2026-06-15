@@ -11,26 +11,26 @@ Today I flew into JFK to stay the night at Anna’s new posh Brooklyn apartment.
 
 #### June 4
 
-I woke up to the grand view of the city just outside Anna’s large bedside window. Anna had miraculously already hopped out of bed and was on her way to pick up Ilana. After a seemingly difficult journey back from the airport where they accidentally ventured into Manhattan, they picked up me, Anjali and Jayla. To my disbelief, everyone made it on time and our friend group, usually scattered across multiple states and time zones, briefly existed in one place again.
+I woke up to the grand view of the city just outside Anna’s large bedside window. Anna had miraculously already hopped out of bed and was on her way to pick up Ilana. After a seemingly difficult journey back from the airport where they accidentally ventured into Manhattan, they picked up me, Anjali and Jayla. To my disbelief, everyone made it on time and our friend group, usually scattered across multiple states and time zones, existed in one place again (Shlyn to come later).
 
 <img style="width:300px" src="/pictures/reunion/truck.jpeg"/>
 
-Naturally, bagels were the first order of business. Somewhere in the back of a big truck on a Thursday morning, with a BEC in one hand and a Dunkin’s iced coffee in the other, surrounded by my friends, I reached peak happiness.
+Naturally, bagels were the first order of business. Somewhere in the back of a big truck on a Thursday morning, with a BEC in one hand and a Dunkin’s iced coffee in the other, surrounded by my friends, I was feeling overjoyed.
 
-After five long years, we were rolling onto campus via Dryden Road. Everyone was mentally rusty, so we took a few wrong turns before we were on our way to North Campus. We cruised by our old home, 325 Dryden Road, only to find a tacky grey and blue apartment building in its place. Collegetown and West Campus did not impress us as both areas were under major construction. 
+After five long years, we were rolling onto campus via Dryden Road. Everyone was mentally rusty, so we took a few wrong turns before we were on our way through campus. We cruised by our old home, 325 Dryden Road, only to find a tacky grey and blue apartment building in its place. Collegetown and West Campus did not impress us as both areas were under major construction. 
 
-We united with Shlyn and our group was finally complete. Since graduating, we’ve struggled to have all members present at once, so this was quite a feat for us.
+Driving through campus felt surreal and silly, serious, formative, and ridiculous memories played through my mind as we neared our destination: North Campus. There, we united with Shlyn and our group was finally complete. Since graduating, we’ve struggled to have all members present at once, so again, this was a major feat for us.
 
-Cornell appeared to be putting the freshman football team to work since we got chauffeured from the parking lot to Donlon in one of their minivans. I experienced a wave of grave anxiety stepping foot on campus for the first time in five years and entering a freshman dorm. Luckily, no one of note was in sight and we slipped away into Low Rise 10, aka Ujama hall.  
+Cornell appeared to be putting the freshman football team to work since we got chauffeured from the parking lot to Donlon in one of their minivans. I experienced a wave of anxiety stepping foot on campus for the first time in five years and entering a freshman dorm. Luckily, no one of note was in sight and we slipped away into Low Rise 10, aka Ujama hall.  
 
-This dorm was structured just like Low Rise 6 and brought me back to our freshman days. I roomed with Ilana, Jayla and Ashlyn were in singles, and Anjali and Anna resided in the other double. 
+This dorm was structured just like Low Rise 6 and brought me back to my freshman days. I roomed with Ilana, Jayla and Ashlyn were in singles, and Anjali and Anna resided in the other double. 
 
-To prepare for our big night ahead, we fueled up at CTB where I bought the classic Zabs. Afterwards, we tried to buy alcohol from the grocery store and were tragically denied because Anna didn’t have her ID. Thankfully we snuck into Walgreens, pretended we didn’t know Anna, and successfully secured our alcohol. 
+To prepare for our big night ahead, we got lunch at CTB where I bought the classic Zabs. Afterwards, we tried to buy alcohol from the grocery store and were tragically denied because Anna didn’t have her ID. Thankfully we snuck into Walgreens, pretended we didn’t know Anna, and successfully secured our alcohol. 
 
 <img style="height:400px" src="/pictures/reunion/happy hour.jpeg"/>
 <img style="height:400px" src="/pictures/reunion/happy hour.JPG"/>
 
-As the hours till the happy hour dwindled, we frantically changed many outfits, pregamed a little, and prepared to see all the ghosts of the past. At Donlon, we ran into some boys immediately upon entrance. From there it was one familiar face after the other. Ilana and I stuck by each other as we know ourselves to be a recognizable duo. I forgot how many people I knew from college and was overcome with genuine joy seeing every one of them. Despite our initial reluctance to attend, I stayed the entire duration of the happy hour energized by the socialization and surprised by my surge of extroversion. 
+As the hours till the happy hour dwindled, we frantically changed our outfits, pregamed a little, and prepared to see all our ghosts of the past. At Donlon, we ran into some boys immediately upon entrance. From there it was one familiar face after the other. Ilana and I stuck by each other as we know ourselves to be a recognizable duo. I forgot how many people I knew from college and was overcome with genuine joy seeing every one of them. Despite our initial reluctance to attend, I stayed the entire duration of the happy hour energized by the socialization and surprised by my surge of extroversion. 
 
 <img style="width:300px" src="/pictures/reunion/bags.jpeg"/>
 
@@ -42,13 +42,13 @@ Level B was exactly the same. A dingy basement famous for serving fishbowls, sic
 
 I became a socialite saying hello to people every few steps in every direction. While it seemed to me like I reconnected with thousands of people that night, it was maybe thirty. I lost my voice by the end of the night and Ubered home feeling very fulfilled and elated to relive my college days. 
 
-In the dorm, we post-gamed with conversation. A lengthy debrief took over the night. I told Sam about the innocuous cheek kiss that both Ilana and I received. His jealous reaction was endearing but caused him to become the laughing stock of our night. We fell asleep around 3 am. 
+In the dorm, we post-gamed with conversation. A lengthy debrief took over the night. I told Sam about the innocuous cheek kiss that both Ilana and I received. His jealous reaction was endearing but caused him to become the laughing stock of our night. We fell asleep around 3 AM. 
 
 #### June 5
 
 <img style="height:400px" src="/pictures/reunion/run.jpeg"/>
 
-I woke at 11 AM today to discover some folks had already participated in many activities. Unbeknownst to me, most of the crew had woken up at 7:30 AM, gotten coffee, and already exercised. Shlyn and Ilana rollerbladed somewhere outside as Anjali jogged near them. To my relief, Jayla was on the same schedule as me having just arisen from bed. 
+I woke at 11 AM today to discover my pals had already participated in many activities. Unbeknownst to me, most of the crew had woken up at 7:30 AM, gotten coffee, and already exercised. Shlyn and Ilana rollerbladed somewhere outside as Anjali jogged near them. To my relief, Jayla was on the same schedule as me having just arisen from bed. 
 
 I went on a run with Anna through North Campus, across the suspension bridge, and around Beebe Lake. Unfortunately, Anna took a big faceplant and ripped her leggings, but she rose like a soldier and kept running. 
 
@@ -59,19 +59,19 @@ In the dorm, I ran into Ilana who was dying of hunger just like me, so we visite
 
 I recovered quickly after we visited the Cornell store, and I bought a new sweatshirt. We romped around campus a bit until we all overheated and had to go lie down. 
 
-Next up, the reunion flagship event: Class of 2021 dinner. We had each spent the last week pondering our outfits for this event deeply and all ended up in some sort of long and/or floral dress. We got dressed, took some pictures, and approached RPCC, the worst freshmen dining hall, with skepticism and found our skepticism to be well-deserved. 
+Next up, the reunion flagship event: Class of 2021 dinner. We had each spent the last week pondering our outfits for this event deeply and all ended up in some sort of long and/or floral dress. We got dressed, took some pictures, and approached RPCC, the worst freshmen dining hall, with skepticism and found our hesitation to be validated. 
 
 <img style="height:400px" src="/pictures/reunion/glass.JPG"/>
 <img style="height:400px" src="/pictures/reunion/dress.JPG"/>
 
-We entered a stuffy big room full of people and no tables. We waited in line for 45 minutes to get a few pieces of Wegman’s sushi. I was very anxious in line because I noticed people I did not want to speak to hovering nearby. Though the food was certainly subpar and seemed to all be from Wegmans and we had to stand to eat, I actually had a great time reconnecting with everyone. We continued to run into tons of people from the past, and I had an extended conversation with Lauren, who is Michelle’s boyfriend’s cousin, which is a very fun coincidence. 
+We entered a stuffy big room full of people and no tables. We waited in line for 45 minutes to get a few pieces of Wegman’s sushi. I was very anxious in line because I noticed people I did not want to speak to hovering nearby. Though the food was certainly subpar and seemed to all be from Wegmans and we had to stand to eat, I had a great time reconnecting with everyone. We continued to run into tons of people from the past, and I had an extended conversation with Lauren, who is Michelle’s boyfriend’s cousin, which is a very fun coincidence. 
 
 <img style="height:300px" src="/pictures/reunion/jed.jpeg"/>
 <img style="height:300px" src="/pictures/reunion/alex.JPG"/>
 <img style="height:300px" src="/pictures/reunion/maddie.jpeg"/>
 <img style="height:300px" src="/pictures/reunion/john.jpeg"/>
 
-After dinner, we migrated to the slope for sunset, placing us near the arts quad for the event of the night: the famous alumni tent parties. There were three tents: one with live music, one with a DJ, and one with karaoke. We bounced between tents engaging in fragmented conversations, spilling wine around, and dancing the night away. Jayla, our biggest social butterfly, was quickly whisked away by people I’d never seen before. I video chatted Sam to show him the scene and let him in on all the intel I had gathered from the night. 
+After dinner, we migrated to the slope for sunset, placing us near the arts quad for the event of the night: the famous alumni tent parties. There were three tents: one with live music, one with a DJ, and one with karaoke. We bounced between tents engaging in fragmented conversations, spilling wine around, and dancing the night away. Jayla, our big social butterfly, was quickly whisked away by people I’d never seen before. I video chatted Sam to show him the scene and let him in on all the intel I had gathered from the night. 
 
 Around midnight, I couldn’t take the lack of dessert anymore, so Ilana and I ventured into college town for a treat. She ate a bagel while I ate vanilla ice cream. Back at home, Anna joined us, and we recorded a long podcast where we reviewed the characters of the night, and I sent it to Sam so he could be in the loop. One of our main findings was that many of the characters we fawned over in college now looked horrible which was satisfying. 
 
@@ -106,4 +106,6 @@ After a few minutes, the car signaled that there was a lack of tire pressure. I 
 
 I had to leave fairly immediately to make it to JFK to catch my flight which Anna was thankfully very understanding about. Anjali and Jayla stayed back and roadside assistance was able to change the tire quickly. Anjali’s train was out of the question at this point, and she Ubered back to Philly. 
 
-Ilana and I talked incessantly for the two hour car ride which I hope the driver was cool with. By this point, I was really only a fraction of my former self due to the sheer exhaustion and sleep-deprivation from the weekend but I got to see Ilana’s parents after all these years and hug both of them. I boarded my flight after eating a Nutella acai bowl that is still on my mind. In Seattle, Sam picked me up in the convertible and presented me with a funny packed lunch that consisted of a Sam-crafted italian sandwich, a lime seltzer, blueberries, blackberries, and my favorite chocolate panda snack! So sweet!
+Ilana and I talked incessantly for the two hour car ride which I hope the driver was cool with. By this point, I was really only a fraction of my former self due to the sheer exhaustion and sleep-deprivation from the weekend but I got to see Ilana’s parents after all these years and hug both of them. 
+
+I boarded my flight after eating a Nutella acai bowl that is still on my mind. In Seattle, Sam picked me up in the convertible and presented me with a funny packed lunch that consisted of a Sam-crafted italian sandwich, a lime seltzer, blueberries, blackberries, and my favorite chocolate panda snack! So sweet!
