@@ -108,4 +108,6 @@ I had to leave fairly immediately to make it to JFK to catch my flight which Ann
 
 Ilana and I talked incessantly for the two hour car ride which I hope the driver was cool with. By this point, I was really only a fraction of my former self due to the sheer exhaustion and sleep-deprivation from the weekend but I got to see Ilana’s parents after all these years and hug both of them. 
 
+<img style="width:400px" src="/pictures/reunion/packed.jpeg"/>
+
 I boarded my flight after eating a Nutella acai bowl that is still on my mind. In Seattle, Sam picked me up in the convertible and presented me with a funny packed lunch that consisted of a Sam-crafted italian sandwich, a lime seltzer, blueberries, blackberries, and my favorite chocolate panda snack! So sweet!
