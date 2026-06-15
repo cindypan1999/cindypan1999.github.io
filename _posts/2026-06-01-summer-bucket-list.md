@@ -12,7 +12,7 @@ img {
 
 - [x] Attend my college reunion
 - [ ] Complete my Oregon 70.3 Ironman
-- [ ] Have a birthday party
+- [ ] Celebrate my birthday with a Fremont bar crawl
 - [ ] Enjoy Seattle with my family
 - [ ] Go backpacking for three nights
 - [ ] Hike Vesper Peak
