@@ -512,7 +512,7 @@ tag: highlights
   <div class="pin" data-month="march" data-text="sam birthday dinner early celebrate" style="--d:0.08s">
     <div class="pin-img" style="height:290px">
       
-      <img src="/pictures/q12026/shoot.JPG">
+      <img src="/pictures/q12026/shoot.jpg">
       
      
     </div>
