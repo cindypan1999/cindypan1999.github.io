@@ -393,7 +393,7 @@ author: "Cindy Pan"
             <div class="pin-body"><div class="pin-title">And then a churro</div></div>
     </div>
     <div class="pin" style="--d:0.04s"><div class="pin-img"><img src="/pictures/mexico/bug.jpeg"></div>
-        <div class="pin-body"><div class="pin-title">There is a cockroach issue at our Airbnb, but Preethi bravely defends us with a sword</div>
+        <div class="pin-body"><div class="pin-title">There is a cockroach issue at our Airbnb, but Preethi bravely defends us with a sword. The culprit turns out to be a rock</div>
     </div>
     </div>
 
