@@ -1,5 +1,5 @@
 ---
-tag: projects
+tag: pursuits
 ---
 
 ## my radish success story

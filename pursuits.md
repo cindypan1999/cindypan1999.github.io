@@ -1,15 +1,15 @@
 ---
 layout: page
-title: projects
+title: pursuits
 ---
 
-{% assign project_posts = site.tags.projects %}
-{% if project_posts %}
+{% assign pursuits_posts = site.tags.pursuits %}
+{% if pursuits_posts %}
   <ul>
-    {% for post in project_posts %}
+    {% for post in pursuits_posts %}
       <li><a href="{{ post.url }}">{{ post.date | date: "%B %-d, %Y" }} - {{ post.title }}</a></li>
     {% endfor %}
   </ul>
 {% else %}
-  <p>No project posts yet!</p>
+  <p>No pursuit posts yet!</p>
 {% endif %}
