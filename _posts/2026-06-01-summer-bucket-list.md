@@ -14,7 +14,7 @@ img {
 - [x] Complete my Oregon 70.3 Ironman
 - [x] Celebrate my birthday with a Fremont bar crawl
 - [x] Enjoy Seattle with my family
-- [ ] Go backpacking for three nights
+- [x] Go backpacking for three nights
 - [ ] Hike Vesper Peak
 - [ ] Try bikepacking
 - [ ] See a drive-in movie
